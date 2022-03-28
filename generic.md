@@ -41,9 +41,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>3-d printed puzzle</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Here I should also briefly explain the purpose of the project and my part in the project. Consulted with teammates and sketched pieces. Designed parts in OnShape, to be printed by school. SHOULD I CHANGE THIS TO LEAD TO A PAGE THAT TALKS ABOUT MY SCHOOL (UW) PROJECTS? THAT WAY I CAN INCLUDE 101L STUFF (NAMETAG, PUZZLE) AND 161 (WHEELCHAIR) STUFF? IT MIGHT BE TOO MUCH, SO I MIGHT JUST CHOOSE 2 MOST RELEVANT PROJECTS THEN.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -57,9 +57,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Graphics Design</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Here I feel like I should link to a page of all graphics related projects? e.g. AU Merch, Keychains (and nametag too?), Posters/Social media posts. This is to show more of my creative side whereas the other ones are to show my experience and ability to apply my skills in a "real job". I would probably also link to new page where I would just have short descriptions and a "gallery" of pics (also each with short descriptions under if possible). Hopefully that won't take too much time.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
