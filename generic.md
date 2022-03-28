@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: my professional(?) and side-projects
+description: Look at what I've made!
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
