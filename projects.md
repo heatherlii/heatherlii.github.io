@@ -19,7 +19,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="projects.html" class="image">
+		<a href="skills.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -29,7 +29,7 @@ nav-menu: true
 				</header>
 				<p>Here I will write a brief description of the iterative design process including the purpose of the project, consulting meetings where we discussed choices and changes to be made, and the work I did. I made components, and created interactive mockups of the product. SHOULD I CREATE A NEW PAGE FOR EACH PROJECT? WITH A GALLERY OF IMAGES? IF SO I SHOULD EDIT THE LEARN MORE BUTTON HYPERLINK.</p>
 				<ul class="actions">
-					<li><a href="projects.html" class="button">Learn more</a></li>
+					<li><a href="skills.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
