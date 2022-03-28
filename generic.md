@@ -1,10 +1,20 @@
 ---
-layout: landing
 title: Projects
+layout: landing
 description: my professional(?) and side-projects
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>WRTIE BRIEF EXPLANATION HERE</h2>
+		</header>
+		<p>Talk about my background and/or my experience. What kinds of of projects do I do, what kinds are included below? bla bla bla bla bla bla. And I can keep typing random words forever and ever and ever.</p>
+	</div>
+</section>
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
 
