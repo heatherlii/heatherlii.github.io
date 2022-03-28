@@ -55,7 +55,7 @@ nav-menu: true
 				<p>I'm not sure which one I should add... I mean I could have both still. I should probably put Adobe first since I would most likely use that over garageband (but I just want to show that I use lots of editing softwares and am intersted in lots of creative fields). This explanation is going to be super short.</p>
 				<ul class="actions">
 					<li><a href="skills.html" class="button">Learn more</a></li>
-				</ul>f
+				</ul>
 			</div>
 		</div>
 	</section>
