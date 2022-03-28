@@ -70,3 +70,5 @@ nav-menu: true
 		</div>
 	</section>
 </section>
+	
+</div>
