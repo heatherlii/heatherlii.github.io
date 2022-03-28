@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Skills
+title: About
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
