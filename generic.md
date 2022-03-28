@@ -29,7 +29,7 @@ nav-menu: true
 				</header>
 				<p>Here I will write a brief description of the iterative design process including the purpose of the project, consulting meetings where we discussed choices and changes to be made, and the work I did. I made components, and created interactive mockups of the product. SHOULD I CREATE A NEW PAGE FOR EACH PROJECT? WITH A GALLERY OF IMAGES? IF SO I SHOULD EDIT THE LEARN MORE BUTTON HYPERLINK.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -45,7 +45,7 @@ nav-menu: true
 				</header>
 				<p>Here I should also briefly explain the purpose of the project and my part in the project. Consulted with teammates and sketched pieces. Designed parts in OnShape, to be printed by school. SHOULD I CHANGE THIS TO LEAD TO A PAGE THAT TALKS ABOUT MY SCHOOL (UW) PROJECTS? THAT WAY I CAN INCLUDE 101L STUFF (NAMETAG, PUZZLE) AND 161 (WHEELCHAIR) STUFF? IT MIGHT BE TOO MUCH, SO I MIGHT JUST CHOOSE 2 MOST RELEVANT PROJECTS THEN.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -61,7 +61,7 @@ nav-menu: true
 				</header>
 				<p>Here I feel like I should link to a page of all graphics related projects? e.g. AU Merch, Keychains (and nametag too?), Posters/Social media posts. This is to show more of my creative side whereas the other ones are to show my experience and ability to apply my skills in a "real job". I would probably also link to new page where I would just have short descriptions and a "gallery" of pics (also each with short descriptions under if possible). Hopefully that won't take too much time.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
