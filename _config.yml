@@ -6,7 +6,7 @@ description: I am experimenting.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-phone: please email :)
+phone: please email to request :)
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
