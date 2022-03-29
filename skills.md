@@ -2,7 +2,7 @@
 title: Skills
 layout: landing
 description: 'Look at what I can do!'
-image: assets/images/pic07.jpg
+image: assets/images/skills.jpg
 nav-menu: true
 ---
 
