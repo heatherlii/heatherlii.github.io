@@ -17,12 +17,12 @@ tiles-count: 5
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  email: haliyamn@uwaterloo.ca
+  email:
   GitHub:
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/heather-li-yam-nam
+  LinkedIn:
   Twitter:
   Facebook:
   Slack:
