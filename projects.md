@@ -57,9 +57,25 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Graphics Design</h3>
+					<h3>Product Design</h3>
 				</header>
-				<p>Here I feel like I should link to a page of all graphics related projects? e.g. AU Merch, Keychains (and nametag too?), Posters/Social media posts. This is to show more of my creative side whereas the other ones are to show my experience and ability to apply my skills in a "real job". I would probably also link to new page where I would just have short descriptions and a "gallery" of pics (also each with short descriptions under if possible). Hopefully that won't take too much time.</p>
+				<p>Here I feel like I should link to a page of all graphics related projects? e.g. AU Merch, Keychains (and nametag too?). This is to show more of my creative side whereas the other ones are to show my experience and ability to apply my skills in a "real job". I would probably also link to new page where I would just have short descriptions and a "gallery" of pics (also each with short descriptions under if possible). Hopefully that won't take too much time.</p>
+				<ul class="actions">
+					<li><a href="projects.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+		<section>
+		<a href="projects.html" class="image">
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Other Designs</h3>
+				</header>
+				<p>Here I should put all posters/inforgraphics/BHM ig posts. This will separate it from the "graphics" related projects (where I just took care of the graphics/logo to print on a product.</p>
 				<ul class="actions">
 					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
