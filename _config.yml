@@ -6,12 +6,11 @@ description: I am experimenting.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-LinkedIn: https://www.linkedin.com/in/heather-li-yam-nam
 phone: (647) 936-3682
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
