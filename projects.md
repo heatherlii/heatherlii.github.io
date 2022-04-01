@@ -59,7 +59,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Product Design</h3>
 				</header>
-				<p>Here I feel like I should link to a page of all graphics related projects? e.g. AU Merch, Keychains (and nametag too?). This is to show more of my creative side whereas the other ones are to show my experience and ability to apply my skills in a "real job". I would probably also link to new page where I would just have short descriptions and a "gallery" of pics (also each with short descriptions under if possible). Hopefully that won't take too much time.</p>
+				<p>In 2020, I designed logos and posters for the Arts Unionville Dnace Porgram merchandise. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, I created digital posters to advertise to the department's 476 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
 				<ul class="actions">
 					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
