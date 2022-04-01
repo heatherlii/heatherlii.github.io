@@ -59,8 +59,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Product Design</h3>
 				</header>
-				<p>Products I have designed include clothing merchandise for sale, and laser engraved keychains/name tags. 
-				As a member of the Arts Unionville Dance Porgram in high school, I designed logos and promotional posters. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, the posters were advertised to the department's 476 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
+				<p>Products I have designed include clothing merchandise for sale, and laser engraved keychains/name tags.</p>
+				>p>As a member of the Arts Unionville Dance Porgram in high school, I designed logos and promotional posters. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, the posters were advertised to the department's 476 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
 				<ul class="actions">
 					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
