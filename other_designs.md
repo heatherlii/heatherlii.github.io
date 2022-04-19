@@ -1,3 +1,16 @@
+---
+layout: allposts
+title: Other Designs
+landing-title: 'Other Designs'
+nav-menu: false
+description: null
+image: null
+author: null
+show_tile: false
+---
+
+<h1>Other Designs</h1>
+
 <!-- Image -->
 <h3>Image</h3>
 
