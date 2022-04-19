@@ -16,7 +16,12 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<p>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a designer. From a young age, I have always been interested in creating applicable and visually pleasing designs. Starting from slide shows, to posters/infographics, to merchandise and low-fidelity prototypes, to webpages, I grown to improve and expand my skills in design.</p>
+		
+<p>Mention love for IDP</p>
+		
+<p>Mention participation in "creative" activities e.g. comm tech course, film editing, music editing, origami, etc.</p>
+		
+<p>Mention other interests (dance/choreography/teaching)</p>
 
 </div>
