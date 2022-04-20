@@ -55,7 +55,7 @@ show_tile: false
 </div> 
 
 <h3>Keychains</h3>
-<p>Short description of infographics, maybe a little of process and the project.<p>
+<p>Put pictures of final products and maybe sketches? Short description of projects and process (very similar).<p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
