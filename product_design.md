@@ -39,9 +39,9 @@ show_tile: false
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration2.png %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration3.png %}" alt="" /></span></div>
 		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration4.png %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration5.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration6.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration7.png %}" alt="" /></span></div>	
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration6.png %}" alt="" /></span></div>	
 	</div>
 </div> 
 
