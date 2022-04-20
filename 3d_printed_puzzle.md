@@ -28,3 +28,33 @@ show_tile: false
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
 	</div>
 </div>
+
+<h2>Sketches & Iterations</h2>
+<h3>First iteration</h3>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/deconstructed turtle.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
+	</div>
+</div>
+		
+<h3>Second iteration</h3>
+<p>Mention changes?</p>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/deconstructed turtle.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
+	</div>
+</div>
+		
+<h3>Third iteration</h3>
+<p>Mention changes?</p>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/deconstructed turtle.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
+	</div>
+</div>
