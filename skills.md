@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 
-<h3>Figma</h3>
+<h1>Figma</h1>
 <p>Mention proficiency? Features I can use? Figma tutorials :) Add links to prototypes?</p>
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -27,7 +27,7 @@ nav-menu: true
 	</div>
 </div>
 
-<h3>OnShape</h3>
+<h1>OnShape</h1>
 <p>Mention proficiency and include pictures of parts built on OnShape (101L a1? pokeball car? turtle again? other sprints? old telephone?</p>
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -41,7 +41,7 @@ nav-menu: true
 	</div>
 </div>
 
-<h3>Adobe Creative Suite</h3>
+<h1>Adobe Creative Suite</h1>
 <p>Put photoshop stuff from comm tech here? Mention other projects e.g. premiere pro?</p>
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -55,7 +55,7 @@ nav-menu: true
 	</div>
 </div>
 
-<h3>Sketching</h3>
+<h1>Sketching</h1>
 <p>Put pictures of sketches from projects, sprints, and leisure here?</p>
 <div class="box alt">
 	<div class="row 50% uniform">
