@@ -30,7 +30,7 @@ show_tile: false
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/logo3.png %}" alt="" /></span></div>
 	</div>
 </div>
-<span class="image fit"><img="{% link assets/images/merch posters.png %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/merch posters.png %}" alt="" /></span>
 
 <h3>Other iterations</h3>
 <div class="box alt">
