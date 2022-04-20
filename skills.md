@@ -10,46 +10,24 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one" class="spotlights">
-	<section>
-		<a href="projects.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="projects.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="projects.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-</section>
+<section id="one">
+	<div class="inner">
+	     <header class="major">
+		<h1>Product Design</h1>
+	     </header>		
 
-</div>
+<h3>Figma</h3>
+<p>Mention proficiency? Features I can use? Figma tutorials :)</p>
+<span class="image fit"><img src="{% link assets/images/merch posters.png %}" alt="" /></span>
+
+<h3>OnShape</h3>
+<p>Mention proficiency and include pictures of parts built on OnShape (101L a1? pokeball car? turtle again? other sprints? old telephone?</p>
+<span class="image fit"><img src="{% link assets/images/merch posters.png %}" alt="" /></span>
+
+<h3>Adobe Creative Suite</h3>
+<p>Put photoshop stuff from comm tech here? Mention other projects e.g. premiere pro?</p>
+<span class="image fit"><img src="{% link assets/images/merch posters.png %}" alt="" /></span>
+
+<h3>Sketching</h3>
+<p>Put pictures of sketches from projects, sprints, and leisure here?</p>
+<span class="image fit"><img src="{% link assets/images/merch posters.png %}" alt="" /></span>
