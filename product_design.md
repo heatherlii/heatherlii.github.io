@@ -20,6 +20,7 @@ show_tile: false
 	     </header>		
 		
 <!-- Image -->
+<h2>Clothing merchandise</h2>
 <h3>Final product</h3>
 <p>Show final logos and logo on clothing pictures and posters? Write description here instead of previous page?<p>
 <p>As a member of the Arts Unionville Dance Porgram in high school, I designed logos and promotional posters. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, the posters were advertised to the department's 476 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
@@ -45,7 +46,7 @@ show_tile: false
 	</div>
 </div> 
 
-<h3>Keychains</h3>
+<h2>Keychains</h2>
 <p>Put pictures of final products and maybe sketches? Short description of projects and process (very similar).<p>
 <p>The laser engraved pieces were created for Communications (technology and visualization) courses. To create the designs and svg files, I used Adobe Illustrator and SolveSpace. TALK MORE IN DEPTH ABOUT THE PROCESS. MENTION THAT THEY WERE FOR DIFFERENT SCHOOL PROJECTS??? (HIGH SCHOOL & UNI)</p>
 <span class="image fit"><img src="{% link assets/images/keychains.png %}" alt="" /></span>
