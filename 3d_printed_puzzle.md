@@ -31,31 +31,20 @@ show_tile: false
 
 <h2>Sketches & Iterations</h2>
 <h3>First iteration</h3>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/deconstructed turtle.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
-	</div>
-</div>
+<span class="image fit"><img src="{% link assets/images/skills.jpg %}" alt="" /></span>
 		
 <h3>Second iteration</h3>
 <p>Mention changes?</p>
-<span class="image fit"><img src="{% link assets/images/skills.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/orthographic view.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/deconstructed turtle.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/dimensions added.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/highlighted parts.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/with feet.png %}" alt="" /></span></div>
 	</div>
 </div>
 		
 <h3>Third iteration</h3>
 <p>Mention changes?</p>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/deconstructed turtle.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
-	</div>
-</div>
+<span class="image fit"><img src="{% link assets/images/overhang change.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/slant change.jpg %}" alt="" /></span>
