@@ -26,9 +26,9 @@ show_tile: false
 <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas_brothers.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide_hall.jpg %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
