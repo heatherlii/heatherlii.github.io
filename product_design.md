@@ -25,9 +25,9 @@ show_tile: false
 <p>As a member of the Arts Unionville Dance Porgram in high school, I designed logos and promotional posters. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, the posters were advertised to the department's 476 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo3.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo3.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/logo3.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
 	</div>
 </div>
 
@@ -35,13 +35,13 @@ show_tile: false
 <p>Show all potential logos here.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration1.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration2.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration3.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/kruump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration4.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration5.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteratrion6.png %}" alt="" /></span></div>	
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krrump.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>	
 	</div>
 </div> 
 
