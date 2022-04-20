@@ -14,7 +14,7 @@ nav-menu: true
 	<div class="inner">
 
 <h3>Figma</h3>
-<p>Mention proficiency? Features I can use? Figma tutorials :)</p>
+<p>Mention proficiency? Features I can use? Figma tutorials :) Add links to prototypes?</p>
 <span class="image fit"><img src="{% link assets/images/merch posters.png %}" alt="" /></span>
 
 <h3>OnShape</h3>
