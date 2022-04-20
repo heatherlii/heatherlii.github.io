@@ -46,7 +46,7 @@ show_tile: false
 		</ul>
 	</div>
 </div>
-<span class="image fit"><img src="{% link assets/images/orthographic view.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/orthographic view.png %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/dimensions added.png %}" alt="" /></span></div>
@@ -67,5 +67,5 @@ show_tile: false
 		</ul>
 	</div>
 </div>
-<span class="image fit"><img src="{% link assets/images/overhang change.jpg %}" alt="" /></span>
-<span class="image fit"><img src="{% link assets/images/slant change.jpg %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/overhang change.png %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/slant change.png %}" alt="" /></span>
