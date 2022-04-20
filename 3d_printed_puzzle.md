@@ -17,5 +17,14 @@ show_tile: false
 	<div class="inner">
 	     <header class="major">
 		<h1>3-d Printed Puzzle</h1>
-	     </header>		
-		
+	     </header>
+	
+<h2>Final Product</h2>
+<p>ADD LINK TO VIDEO OF ASSEMBLY</p>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo1.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo2.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/logo3.png %}" alt="" /></span></div>
+	</div>
+</div>
