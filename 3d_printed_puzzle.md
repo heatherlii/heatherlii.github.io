@@ -41,6 +41,7 @@ show_tile: false
 		
 <h3>Second iteration</h3>
 <p>Mention changes?</p>
+<span class="image fit"><img src="{% link assets/images/skills.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
