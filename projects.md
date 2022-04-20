@@ -17,7 +17,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Contextual Help</h3>
 				</header>
-				<p>Here I will write a brief description of the iterative design process including the purpose of the project, consulting meetings where we discussed choices and changes to be made, and the work I did. I made components, and created interactive mockups of the product. SHOULD I CREATE A NEW PAGE FOR EACH PROJECT? WITH A GALLERY OF IMAGES? IF SO I SHOULD EDIT THE LEARN MORE BUTTON HYPERLINK.</p>
+				<p>Short explanation of what this project is. (I worked on designing mockups and prototypes for a Contextual Help panel)</p>
 				<ul class="actions">
 					<li><a href="contextual_help.html" class="button">Learn more</a></li>
 				</ul>
