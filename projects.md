@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>3-d printed puzzle</h3>
 				</header>
-				<p>Here I should also briefly explain the purpose of the project and my part in the project. Consulted with teammates and sketched pieces. Designed parts in OnShape, to be printed by school. SHOULD I CHANGE THIS TO LEAD TO A PAGE THAT TALKS ABOUT MY SCHOOL (UW) PROJECTS? THAT WAY I CAN INCLUDE 101L STUFF (NAMETAG, PUZZLE) AND 161 (WHEELCHAIR) STUFF? IT MIGHT BE TOO MUCH, SO I MIGHT JUST CHOOSE 2 MOST RELEVANT PROJECTS THEN.</p>
+				<p>Briefly described project and my role. Link/button will guide to a page with more detail (with sketches and "anecdotes" of misprints) and any other documentation from the process.</p>
 				<ul class="actions">
 					<li><a href="3d_printed_puzzle.html" class="button">Learn more</a></li>
 				</ul>
