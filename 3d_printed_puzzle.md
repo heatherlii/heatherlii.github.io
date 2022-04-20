@@ -37,7 +37,6 @@ show_tile: false
 <h3>Second iteration</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-		
 		<h4>Changes:</h4>
 		<ul>
 			<li>first</li>
@@ -45,7 +44,6 @@ show_tile: false
 			<li>third</li>
 			<li>fourth</li>
 		</ul>
-		
 	</div>
 </div>
 <span class="image fit"><img src="{% link assets/images/orthographic view.jpg %}" alt="" /></span>
@@ -60,7 +58,6 @@ show_tile: false
 <h3>Third iteration</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-		
 		<h4>Changes:</h4>
 		<ul>
 			<li>first</li>
@@ -68,7 +65,6 @@ show_tile: false
 			<li>third</li>
 			<li>fourth</li>
 		</ul>
-		
 	</div>
 </div>
 <span class="image fit"><img src="{% link assets/images/overhang change.jpg %}" alt="" /></span>
