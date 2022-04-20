@@ -24,16 +24,16 @@ show_tile: false
 <p>Words words words words and more and more words to write as a filler t.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda1.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda2.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda3.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda1.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda2.PNG %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda3.PNG %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda4.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda5.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda6.png %}" alt="" /></span></div>	
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda4.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda5.PNG %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda6.PNG %}" alt="" /></span></div>	
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda7.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda8.png %}" alt="" /></span></div>	
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda7.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda8.PNG %}" alt="" /></span></div>	
 	</div>
 </div>
 
