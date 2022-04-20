@@ -15,8 +15,6 @@ nav-menu: true
 	     <header class="major">
 		<h1>Skills</h1>
 	     </header>	
-	</div>
-</section>
 
 <h3>Figma</h3>
 <p>Mention proficiency? Features I can use? Figma tutorials :)</p>
