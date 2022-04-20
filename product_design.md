@@ -25,16 +25,9 @@ show_tile: false
 <p>As a member of the Arts Unionville Dance Porgram in high school, I designed logos and promotional posters. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, the posters were advertised to the department's 476 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda1.PNG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda2.PNG %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda3.PNG %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda4.PNG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda5.PNG %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda6.PNG %}" alt="" /></span></div>	
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda7.PNG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda8.PNG %}" alt="" /></span></div>	
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo1.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo2.PNG %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/logo4.PNG %}" alt="" /></span></div
 	</div>
 </div>
 
@@ -51,7 +44,6 @@ show_tile: false
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda6.PNG %}" alt="" /></span></div>	
 		<!-- Break -->
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda7.PNG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda8.PNG %}" alt="" /></span></div>	
 	</div>
 </div> 
 
