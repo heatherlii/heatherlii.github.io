@@ -29,7 +29,7 @@ nav-menu: true
 				</header>
 				<p>Here I will write a brief description of the iterative design process including the purpose of the project, consulting meetings where we discussed choices and changes to be made, and the work I did. I made components, and created interactive mockups of the product. SHOULD I CREATE A NEW PAGE FOR EACH PROJECT? WITH A GALLERY OF IMAGES? IF SO I SHOULD EDIT THE LEARN MORE BUTTON HYPERLINK.</p>
 				<ul class="actions">
-					<li><a href="skills.html" class="button">Learn more</a></li>
+					<li><a href="contextual_help.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -45,7 +45,7 @@ nav-menu: true
 				</header>
 				<p>Here I should also briefly explain the purpose of the project and my part in the project. Consulted with teammates and sketched pieces. Designed parts in OnShape, to be printed by school. SHOULD I CHANGE THIS TO LEAD TO A PAGE THAT TALKS ABOUT MY SCHOOL (UW) PROJECTS? THAT WAY I CAN INCLUDE 101L STUFF (NAMETAG, PUZZLE) AND 161 (WHEELCHAIR) STUFF? IT MIGHT BE TOO MUCH, SO I MIGHT JUST CHOOSE 2 MOST RELEVANT PROJECTS THEN.</p>
 				<ul class="actions">
-					<li><a href="projects.html" class="button">Learn more</a></li>
+					<li><a href="3d_printed_puzzle.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
