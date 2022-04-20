@@ -60,8 +60,7 @@ nav-menu: true
 					<h3>Product Design</h3>
 				</header>
 				<p>Products I have designed include clothing merchandise for sale, and laser engraved keychains/name tags.</p>
-				<p>As a member of the Arts Unionville Dance Porgram in high school, I designed logos and promotional posters. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, the posters were advertised to the department's 476 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
-				<p>The laser engraved pieces were created for Communications (technology and visualization) courses. To create the designs and svg files, I used Adobe Illustrator and SolveSpace. TALK MORE IN DEPTH ABOUT THE PROCESS. MENTION THAT THEY WERE FOR DIFFERENT SCHOOL PROJECTS??? (HIGH SCHOOL & UNI)</p>
+				<p>Select 'Learn more' for further details and visuals.</p>
 				<ul class="actions">
 					<li><a href="product_design.html" class="button">Learn more</a></li>
 				</ul>
