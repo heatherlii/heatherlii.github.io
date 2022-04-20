@@ -23,8 +23,8 @@ show_tile: false
 <p>ADD LINK TO VIDEO OF ASSEMBLY</p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo1.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/logo2.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/logo3.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/deconstructed turtle.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/turtle top.png %}" alt="" /></span></div>
 	</div>
 </div>
