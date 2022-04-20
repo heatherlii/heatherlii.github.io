@@ -20,19 +20,29 @@ show_tile: false
 	     </header>		
 
 <!-- Image -->
+<h3>Infographics</h3>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
+	</div>
+</div>
+		
+<h3>Social media</h3>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
+	</div>
+</div>
+
 <h3>Posters</h3>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
 	</div>
 </div>
