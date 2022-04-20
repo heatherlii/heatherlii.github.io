@@ -21,7 +21,7 @@ show_tile: false
 
 <!-- Image -->
 <h3>Social media</h3>
-<p>Words words words words and more and more words to write as a filler.<p>
+<p>Words words words words and more and more words to write as a filler t.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda1.png %}" alt="" /></span></div>
