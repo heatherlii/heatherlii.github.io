@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3d Printed Puzzle
+title: 3-d Printed Puzzle
 landing-title: '3-d Printed Puzzle'
 nav-menu: false
 description: null
