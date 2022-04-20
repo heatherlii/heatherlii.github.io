@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 <!-- One -->
-<section id="two" class="spotlights">
+<section id="one" class="spotlights">
 	<section>
 		<a href="skills.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
