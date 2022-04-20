@@ -45,6 +45,7 @@ show_tile: false
 			<li>third</li>
 			<li>fourth</li>
 		</ul>
+		
 	</div>
 </div>
 <span class="image fit"><img src="{% link assets/images/orthographic view.jpg %}" alt="" /></span>
@@ -67,6 +68,7 @@ show_tile: false
 			<li>third</li>
 			<li>fourth</li>
 		</ul>
+		
 	</div>
 </div>
 <span class="image fit"><img src="{% link assets/images/overhang change.jpg %}" alt="" /></span>
