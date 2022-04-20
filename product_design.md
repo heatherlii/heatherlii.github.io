@@ -32,7 +32,6 @@ show_tile: false
 </div>
 
 <h3>Other iterations</h3>
-<p>Show all potential logos here.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration1.png %}" alt="" /></span></div>
