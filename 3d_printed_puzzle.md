@@ -31,10 +31,22 @@ show_tile: false
 
 <h2>Sketches & Iterations</h2>
 <h3>First iteration</h3>
+<p>First sketch of overall idea.</p>
 <span class="image fit"><img src="{% link assets/images/skills.jpg %}" alt="" /></span>
 		
 <h3>Second iteration</h3>
-<p>Mention changes?</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		
+		<h4>Changes:</h4>
+		<ul>
+			<li>first</li>
+			<li>second</li>
+			<li>third</li>
+			<li>fourth</li>
+		</ul>
+	</div>
+</div>
 <span class="image fit"><img src="{% link assets/images/orthographic view.jpg %}" alt="" /></span>
 <div class="box alt">
 	<div class="row 50% uniform">
@@ -45,6 +57,17 @@ show_tile: false
 </div>
 		
 <h3>Third iteration</h3>
-<p>Mention changes?</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		
+		<h4>Changes:</h4>
+		<ul>
+			<li>first</li>
+			<li>second</li>
+			<li>third</li>
+			<li>fourth</li>
+		</ul>
+	</div>
+</div>
 <span class="image fit"><img src="{% link assets/images/overhang change.jpg %}" alt="" /></span>
 <span class="image fit"><img src="{% link assets/images/slant change.jpg %}" alt="" /></span>
