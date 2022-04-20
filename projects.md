@@ -33,7 +33,7 @@ nav-menu: true
 				<header class="major">
 					<h3>3-d printed puzzle</h3>
 				</header>
-				<p>Briefly described project and my role. Link/button will guide to a page with more detail (with sketches and "anecdotes" of misprints) and any other documentation from the process.</p>
+				<p>During my first term at the University of Waterloo, I worked alongside a few classmates to design and print a 3-d puzzle of a Canadian fauna.</p>
 				<ul class="actions">
 					<li><a href="3d_printed_puzzle.html" class="button">Learn more</a></li>
 				</ul>
@@ -50,7 +50,6 @@ nav-menu: true
 					<h3>Product Design</h3>
 				</header>
 				<p>Products I have designed include clothing merchandise for sale, and laser engraved keychains/name tags.</p>
-				<p>Select 'Learn more' for further details and visuals.</p>
 				<ul class="actions">
 					<li><a href="product_design.html" class="button">Learn more</a></li>
 				</ul>
@@ -66,7 +65,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Other Designs</h3>
 				</header>
-				<p>Here I should put all posters/inforgraphics/BHM ig posts. This will separate it from the "graphics" related projects (where I just took care of the graphics/logo to print on a product.</p>
+				<p>Other designs I have created include social media posts, infographics and posters.</p>
 				<ul class="actions">
 					<li><a href="other_designs.html" class="button">Learn more</a></li>
 				</ul>
