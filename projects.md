@@ -7,16 +7,6 @@ nav-menu: true
 ---
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>WRTIE BRIEF EXPLANATION HERE</h2>
-		</header>
-		<p>Talk about my background and/or my experience. What kinds of of projects do I do, what kinds are included below? bla bla bla bla bla bla. And I can keep typing random words forever and ever and ever.</p>
-	</div>
-</section>
-
-<!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="skills.html" class="image">
