@@ -18,8 +18,6 @@ show_tile: false
 	     <header class="major">
 		<h1>Product Design</h1>
 	     </header>		
-	</div>
-</section>
 	
 <h2>Clothing merchandise</h2>
 <h3>Final product</h3>
