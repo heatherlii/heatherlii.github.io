@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: page
 title: Other Designs
 landing-title: 'Other Designs'
 nav-menu: false
