@@ -48,10 +48,5 @@ show_tile: false
 <h3>Keychains</h3>
 <p>Put pictures of final products and maybe sketches? Short description of projects and process (very similar).<p>
 <p>The laser engraved pieces were created for Communications (technology and visualization) courses. To create the designs and svg files, I used Adobe Illustrator and SolveSpace. TALK MORE IN DEPTH ABOUT THE PROCESS. MENTION THAT THEY WERE FOR DIFFERENT SCHOOL PROJECTS??? (HIGH SCHOOL & UNI)</p>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
-	</div>
-</div>
+<span class="image fit"><img src="{% link assets/images/keychains.png %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/keychain sketches.png %}" alt="" /></span>
