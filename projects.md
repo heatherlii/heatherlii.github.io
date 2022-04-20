@@ -52,7 +52,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects.html" class="image">
-			<img src="{% link assets/images/clothes.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/clothes.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -69,7 +69,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="projects.html" class="image">
-			<img src="{% link assets/images/bhm thumbnail.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/bhm thumbnail.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
