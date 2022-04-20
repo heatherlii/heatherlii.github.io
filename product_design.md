@@ -37,7 +37,7 @@ show_tile: false
 	</div>
 </div>
 
-<h3>Logo iterations</h3>
+<h3>Other iterations</h3>
 <p>Show all potential logos here.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
