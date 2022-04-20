@@ -35,13 +35,13 @@ show_tile: false
 <p>Show all potential logos here.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration1.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration2.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration3.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration4.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration5.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration6.png %}" alt="" /></span></div>	
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>	
 	</div>
 </div> 
 
