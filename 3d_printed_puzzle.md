@@ -35,18 +35,9 @@ show_tile: false
 <span class="image fit"><img src="{% link assets/images/skills.jpg %}" alt="" /></span>
 		
 <h3>Second iteration</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h4>Changes:</h4>
-		<ul>
-			<li>first</li>
-			<li>second</li>
-			<li>third</li>
-			<li>fourth</li>
-		</ul>
-	</div>
-</div>
+<p>image description (orthographic view of side of puzzle, to communicate idea better)</p>
 <span class="image fit"><img src="{% link assets/images/orthographic view.png %}" alt="" /></span>
+<p>image description (added dimensions, divided parts/pieces, added feet parts)</p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/dimensions added.png %}" alt="" /></span></div>
@@ -56,16 +47,7 @@ show_tile: false
 </div>
 		
 <h3>Third iteration</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-		<h4>Changes:</h4>
-		<ul>
-			<li>first</li>
-			<li>second</li>
-			<li>third</li>
-			<li>fourth</li>
-		</ul>
-	</div>
-</div>
+<p>image description (overhang change)</p>
 <span class="image fit"><img src="{% link assets/images/overhang change.png %}" alt="" /></span>
+<p>image description (slant change)</p>
 <span class="image fit"><img src="{% link assets/images/slant change.png %}" alt="" /></span>
