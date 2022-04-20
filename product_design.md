@@ -35,15 +35,13 @@ show_tile: false
 <p>Show all potential logos here.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda1.PNG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda2.PNG %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda3.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration1.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration2.PNG %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration3.PNG %}" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda4.PNG %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda5.PNG %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/amanda6.PNG %}" alt="" /></span></div>	
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/amanda7.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration5.PNG %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration6.PNG %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration7.PNG %}" alt="" /></span></div>	
 	</div>
 </div> 
 
