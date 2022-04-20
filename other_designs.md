@@ -21,6 +21,7 @@ show_tile: false
 
 <!-- Image -->
 <h3>Infographics</h3>
+<p>Short description of infographics, maybe a little of process and the project.<p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
@@ -47,6 +48,7 @@ show_tile: false
 </div>
 
 <h3>Posters</h3>
+<p>Mention this on other page where I talk about AU Merch only? But I could use that page for logo iterations only??<p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/merch promo 1.png %}" alt="" /></span></div>
