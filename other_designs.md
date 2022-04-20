@@ -41,8 +41,7 @@ show_tile: false
 <h3>Posters</h3>
 <div class="box alt">
 	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/merch promo 1.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/merch promo 2.png %}" alt="" /></span></div>
 	</div>
 </div>
