@@ -79,7 +79,7 @@ nav-menu: true
 				</header>
 				<p>Here I should put all posters/inforgraphics/BHM ig posts. This will separate it from the "graphics" related projects (where I just took care of the graphics/logo to print on a product.</p>
 				<ul class="actions">
-					<li><a href="projects.html" class="button">Learn more</a></li>
+					<li><a href="other_designs.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
