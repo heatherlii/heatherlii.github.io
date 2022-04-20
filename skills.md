@@ -12,9 +12,6 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	     <header class="major">
-		<h1>Skills</h1>
-	     </header>	
 
 <h3>Figma</h3>
 <p>Mention proficiency? Features I can use? Figma tutorials :)</p>
