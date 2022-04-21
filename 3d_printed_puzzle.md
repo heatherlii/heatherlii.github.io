@@ -18,7 +18,11 @@ show_tile: false
 	     <header class="major">
 		<h1>3-d Printed Puzzle</h1>
 	     </header>
-	
+
+<h2>Overview</h2>
+<p>As a part of a Communications (visualization) course, I worked with a group of classmates to design and print a puzzle of a Canadian fauna—Blanding's turtle.</p>
+<p>Softwares used include OnShape and Z-SUITE.</p>
+
 <h2>Final Product</h2>
 <p>Click <a href="https://www.youtube.com/watch?reload=9&v=ekqtcpqzAVU&feature=youtu.be" target="_blank">here</a> to watch the assembly.</p>
 <div class="box alt">
@@ -35,9 +39,9 @@ show_tile: false
 <span class="image fit"><img src="{% link assets/images/skills.jpg %}" alt="" /></span>
 		
 <h3>Second iteration</h3>
-<p>image description (orthographic view of side of puzzle, to communicate idea better)</p>
+<p>Right orthographic view of puzzle</p>
 <span class="image fit"><img src="{% link assets/images/orthographic view.png %}" alt="" /></span>
-<p>image description (added dimensions, divided parts/pieces, added feet parts)</p>
+<p>Dimensions, pegs, inserts and feet parts were added.</p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/dimensions added.png %}" alt="" /></span></div>
@@ -47,7 +51,7 @@ show_tile: false
 </div>
 		
 <h3>Third iteration</h3>
-<p>image description (overhang change)</p>
+<p>The shape of the pegs and inserts were changed to triangles for a smaller overhang angle.</p>
 <span class="image fit"><img src="{% link assets/images/overhang change.png %}" alt="" /></span>
-<p>image description (slant change)</p>
+<p>Slant change (1 to 2).</p>
 <span class="image fit"><img src="{% link assets/images/slant change.png %}" alt="" /></span>
