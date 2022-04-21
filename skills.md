@@ -31,7 +31,7 @@ nav-menu: true
 <h2>OnShape</h2>
 <p>Mention proficiency? Add image descriptions (cad drawings from projects and sprints)?</p>
 <span class="image fit"><img src="{% link assets/images/pokeball.png %}" alt="" /></span>
-<span class="image fit"><img src="{% link assets/images/other cad.png %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/more cad.png %}" alt="" /></span>
 
 		
 <h2>Adobe Creative Suite</h2>
