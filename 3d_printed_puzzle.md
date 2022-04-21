@@ -20,7 +20,7 @@ show_tile: false
 	     </header>
 	
 <h2>Final Product</h2>
-<p>Click <a href="here">https://www.youtube.com/watch?reload=9&v=ekqtcpqzAVU&feature=youtu.be</a> to watch the assembly.</p>
+<p>Click <a href="https://www.youtube.com/watch?reload=9&v=ekqtcpqzAVU&feature=youtu.be" target="_blank">here</a> to watch the assembly.</p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/turtle front.png %}" alt="" /></span></div>
