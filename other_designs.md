@@ -49,11 +49,7 @@ show_tile: false
 
 <h3>Visual abstract</h3>
 <p>Created for a Design course project. Explain project?</p>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/visual abstract.png %}" alt="" /></span></div>
-	</div>
-</div>
+<span class="image fit"><img src="{% link assets/images/visual abstracts.png %}" alt="" /></span>
 
 <h3>Posters</h3>
 <p>For more details about my work with clothing merchandise, please see the <a href="https://heatherlii.github.io/product_design.html">Product Design</a> page.</p>
