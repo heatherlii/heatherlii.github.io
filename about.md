@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a designer. From a young age, I have always been interested in creating applicable and visually pleasing designs. Starting from slide shows, to posters/infographics, to merchandise and low-fidelity prototypes, to webpages, I grown to improve and expand my skills in design.</p>
+<p><span class="image left"><img src="{% link assets/images/about.jpg %}" alt="" /></span>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a designer. From a young age, I have always been interested in creating applicable and visually pleasing designs. Starting from slide shows, to posters/infographics, to merchandise and low-fidelity prototypes, to webpages, I grown to improve and expand my skills in design.</p>
 		
 <p>Mention love for IDP</p>
 		
