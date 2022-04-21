@@ -60,4 +60,4 @@ nav-menu: true
 		
 <h2>Sketching</h2>
 <p>Put pictures of sketches from projects, sprints, and leisure here?</p>
-<span class="image fit"><img src="{% link assets/images/merch doodles.png %}" alt="" /></span>
+<span class="image fit"><img src="{% link assets/images/doodles.png %}" alt="" /></span>
