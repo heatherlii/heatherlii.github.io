@@ -34,21 +34,6 @@ nav-menu: true
 <span class="image fit"><img src="{% link assets/images/more cad.png %}" alt="" /></span>
 
 		
-<h2>Adobe Creative Suite</h2>
-<p>Put photoshop stuff from comm tech here? Mention other projects e.g. premiere pro?</p>
-<div class="box alt">
-	<div class="row 50% uniform">
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration1.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration2.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration3.png %}" alt="" /></span></div>
-		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration4.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration5.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration6.png %}" alt="" /></span></div>	
-	</div>
-</div>
-
-		
 <h2>Sketching</h2>
 <p>Sketch and low fidelity prototype of a wheelchair for a Design course project.</p>
 <span class="image fit"><img src="{% link assets/images/tsts.png %}" alt="" /></span>
