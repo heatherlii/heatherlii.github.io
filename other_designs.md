@@ -48,7 +48,7 @@ show_tile: false
 </div>
 		
 <h3>Posters</h3>
-<p>For more details about my work with clothing merchandise, please see the 'Product Design' page.<p>
+<p>For more details about my work with clothing merchandise, please see the <a href="https://heatherlii.github.io/product_design.html">Product Design</a> page.</p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/merch promo 1.png %}" alt="" /></span></div>
