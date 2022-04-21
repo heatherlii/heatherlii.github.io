@@ -38,12 +38,12 @@ show_tile: false
 </div>
 
 <h3>Infographics</h3>
-<p>The infographics below were created during the early stages of the Black Lives Matter movement for the Dance program I was part of in high school. The main goal was to recognize and emphasize the influence Black culture and Black dancers have on the dance community.</p>
+<p>The infographics below were created during the early stages of the Black Lives Matter movement for the Dance program I was part of in high school. The main goal was to recognize and emphasize the influence Black culture and Black dancers have on the dance community. All infographics were released and shared with the (currently) 577 followers of the Arts Unionville Dance Instagram page.</p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/krump.png %}" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/adelaide hall.png %}" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
 	</div>
 </div>
 
