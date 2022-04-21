@@ -59,5 +59,7 @@ nav-menu: true
 
 		
 <h2>Sketching</h2>
-<p>Put pictures of sketches from projects, sprints, and leisure here?</p>
+<p>Sketch of a wheelchair for a Design course project.</p>
+<span class="image fit"><img src="{% link assets/images/tsts.png %}" alt="" /></span>
+<p>A few doodles.</p>
 <span class="image fit"><img src="{% link assets/images/doodles.png %}" alt="" /></span>
