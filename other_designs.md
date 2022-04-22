@@ -47,10 +47,6 @@ show_tile: false
 	</div>
 </div>
 
-<h3>Visual abstract</h3>
-<p>Created for a Design course project. Explain project?</p>
-<span class="image fit"><img src="{% link assets/images/tsts vis abstract.png %}" alt="" /></span>
-
 <h3>Posters</h3>
 <p>For more details about my work with clothing merchandise, please see the <a href="https://heatherlii.github.io/product_design.html">Product Design</a> page.</p>
 <div class="box alt">
