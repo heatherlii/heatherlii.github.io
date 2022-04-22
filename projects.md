@@ -9,7 +9,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="skills.html" class="image">
+		<a>
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -25,7 +25,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="projects.html" class="image">
+		<a>
 			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
