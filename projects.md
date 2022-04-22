@@ -9,7 +9,9 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="contextual_help.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -23,7 +25,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a>
+		<a href="3d_print_puzzle.html" class="image">
 			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -39,7 +41,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="projects.html" class="image">
+		<a href="product_design.html" class="image">
 			<img src="{% link assets/images/merch.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -55,7 +57,7 @@ nav-menu: true
 		</div>
 	</section>
 		<section>
-		<a href="projects.html" class="image">
+		<a href="other_designs.html" class="image">
 			<img src="{% link assets/images/bhm thumbnail.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
