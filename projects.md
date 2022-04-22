@@ -25,7 +25,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="3d_print_puzzle.html" class="image">
+		<a href="3d_printed_puzzle.html" class="image">
 			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
