@@ -9,9 +9,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a>
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
