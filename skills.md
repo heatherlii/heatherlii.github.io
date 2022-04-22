@@ -14,7 +14,7 @@ nav-menu: true
 	<div class="inner">
 
 <h2>Figma</h2>
-<p>Mention proficiency? Features I can use? Figma tutorials :) Add links to prototypes?</p>
+<p>Mention proficiency? Features I can use? Figma tutorials :) Add links to prototypes (I will create a new one ^-^)?</p>
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/iteration1.png %}" alt="" /></span></div>
