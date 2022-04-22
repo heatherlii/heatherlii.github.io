@@ -20,4 +20,4 @@ nav-menu: true
 		
 <p>I love making stuff, iterating, and playing around with new ideas and tools :)</p>
 
-<p>When I am not learning or designing, you will probably find me dancing, choreographing, teaching, or listening to music :)</p>
+<p>When I am not learning or designing, you will probably find me dancing, choreographing, teaching, or listening to music.</p>
