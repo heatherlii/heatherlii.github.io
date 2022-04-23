@@ -18,7 +18,7 @@ nav-menu: true
 <!-- Content -->
 <div class="row">
 	<div class="4u 12u$(medium)">
-		<span class="image fit"><img src="{% link assets/images/me.png %}" alt="" /></span>
+		<span class="image fit"><img src="{% link assets/images/pose.png %}" alt="" /></span>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<p>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a designer.</p>
