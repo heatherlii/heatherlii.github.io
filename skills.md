@@ -14,7 +14,7 @@ nav-menu: true
 	<div class="inner">
 
 <h2>Figma</h2>
-<p>Click <a href="https://www.figma.com/proto/RQptk8jcMXGXQXRB8WJxIB/Prototype?node-id=4%3A77&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A77">here </a>to interact with a mockup of my webpage.</p>
+<p>My Figma skills include designing, prototyping, and fast iterations. Click <a href="https://www.figma.com/proto/RQptk8jcMXGXQXRB8WJxIB/Prototype?node-id=4%3A77&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A77">here </a>to interact with a mockup of my webpage.</p>
 <span class="image fit"><img src="{% link assets/images/figma proto.png %}" alt="" /></span>
 
 		
