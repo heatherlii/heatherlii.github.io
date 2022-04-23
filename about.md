@@ -18,7 +18,9 @@ nav-menu: true
 <!-- Content -->
 <section id="one" class="spotlights">
 	<section>
-		<img src="{% link assets/images/moi.png %}" alt="" data-position="center center" />
+		<div class="image">
+			<img src="{% link assets/images/me.png %}" alt="" data-position="center center" />
+		</div>
 		<div class="content">
 			<div class="inner">
 				<p>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a designer.</p>
