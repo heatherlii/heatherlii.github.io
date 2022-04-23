@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p><span class="image left"><img src="{% link assets/images/about.jpg %}" alt="" /></span>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a designer.</p>
+<p><span class="image left"><img src="{% link assets/images/me.png %}" alt="" /></span>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a designer.</p>
 		
 <p>I love making stuff, iterating, and playing around with new ideas and tools :)</p>
 
