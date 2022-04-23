@@ -43,6 +43,7 @@ show_tile: false
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/iteration6.png %}" alt="" /></span></div>	
 	</div>
 </div>
+<span class="image fit"><img src="{% link assets/images/more clothes.png %}" alt="" /></span>
 
 <h2>Keychains</h2>	
 <p>These laser engraved pieces were created for Communications (technology and visualization) courses. Adobe Illustrator and SolveSpace, respectively, were used to create the design and svg files.</p>
