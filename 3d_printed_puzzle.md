@@ -52,5 +52,5 @@ show_tile: false
 <h3>Third iteration</h3>
 <p>The shape of the pegs and inserts were changed to triangles for a smaller overhang angle, which will give the pieces a nicer surface finish and provide better support.</p>
 <span class="image fit"><img src="{% link assets/images/overhang change.png %}" alt="" /></span>
-<p>1mm chamfered edges were added for easy assembly, especially since the pegs and inserts were given a 0.2mm difference/tolerance for a 'press fit'.</p>
+<p>1mm chamfered edges were added for easy assembly and dismantling, especially since the pegs and inserts were given a 0.2mm difference/tolerance for a 'press fit'.</p>
 <span class="image fit"><img src="{% link assets/images/chamfered edges.png %}" alt="" /></span>
