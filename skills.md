@@ -25,14 +25,14 @@ nav-menu: true
 	</div>
 </div>
 <span class="image fit"><img src="{% link/assets/images/skill figma.png %}" alt="" /></span>
-<hr />
+<hr class="major"/>
 		
 <h2>OnShape</h2>
 <p>CAD drawings created for projects and design sprints.</p>
 <span class="image fit"><img src="{% link assets/images/pokeball.png %}" alt="" /></span>
 <span class="image fit"><img src="{% link assets/images/more cad.png %}" alt="" /></span>
 
-<hr />
+<hr class="major"/>
 		
 <h2>Sketching</h2>
 <p>Sketch and low fidelity prototype of a wheelchair for a Design course project.</p>
