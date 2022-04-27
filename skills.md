@@ -17,7 +17,7 @@ nav-menu: true
 <div class="row">
 	<p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
 	<h3>My strengths:</h3>
-	<div class="6u$ 12u$(small)">
+	<div class="6u$ 12u$(medium)">
 		<li>Designing</li>
 		<li>Prototyping</li>
 		<li>Fast iterations</li>
