@@ -14,9 +14,7 @@ nav-menu: true
 	<div class="inner">
 
 <h2>Figma</h2>
-<section>
-	<p><span class = "image left"><img src="{% link assets/images/figma tutorials.png %}" alt="" /></span>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
-</section>
+<p><span class = "image"><img src="{% link assets/images/figma tutorials.png %}" alt="" /></span>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
 <h3>My strengths:</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -30,12 +28,14 @@ nav-menu: true
 </div>
 <span class="image fit"><img src="{% link assets/images/figma proto.png %}" alt="" /></span>
 
+<hr />
 		
 <h2>OnShape</h2>
 <p>CAD drawings created for projects and design sprints.</p>
 <span class="image fit"><img src="{% link assets/images/pokeball.png %}" alt="" /></span>
 <span class="image fit"><img src="{% link assets/images/more cad.png %}" alt="" /></span>
 
+<hr />
 		
 <h2>Sketching</h2>
 <p>Sketch and low fidelity prototype of a wheelchair for a Design course project.</p>
