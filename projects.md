@@ -17,7 +17,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Contextual Help for Enterprise Applications</h3>
 				</header>
-				<p>Short explanation of what this project is. (I worked on designing mockups and prototypes for a Contextual Help panel)</p>
+				<p>I worked directly with two Lead designers on the project, and my role was to create the visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
 				<ul class="actions">
 					<li><a href="contextual_help.html" class="button">Learn more</a></li>
 				</ul>
@@ -33,7 +33,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Design System</h3>
 				</header>
-				<p>Short explanation of what this project is.</p>
+				<p>Short explanation of what kind of work I did.</p>
 				<ul class="actions">
 					<li><a href="design_system.html" class="button">Learn more</a></li>
 				</ul>
