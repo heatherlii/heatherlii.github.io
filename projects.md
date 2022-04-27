@@ -15,12 +15,27 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Contextual Help/Design System?</h3>
+					<h3>Contextual Help for Enterprise Applications</h3>
 				</header>
 				<p>Short explanation of what this project is. (I worked on designing mockups and prototypes for a Contextual Help panel)</p>
-				<p>Briefly explain the work I did (similar to resume?)</p>
 				<ul class="actions">
 					<li><a href="contextual_help.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="design_system.html" class="image">
+			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Design System</h3>
+				</header>
+				<p>Short explanation of what this project is.</p>
+				<ul class="actions">
+					<li><a href="design_system.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
