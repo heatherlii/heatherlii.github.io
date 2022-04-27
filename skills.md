@@ -16,12 +16,16 @@ nav-menu: true
 <h2>Figma</h2>
 <p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
 <div class="row">
-	<h3>My strengths:</h3>
+	<div class="6u$ 12u$(small)">
+		<h3>My strengths:</h3>
+	</div>
 	<p><div class="6u$ 12u$(small)">
-		<li>Designing</li>
-		<li>Prototyping</li>
-		<li>Fast iterations</li>
-		<li>Click <a href="https://www.figma.com/proto/RQptk8jcMXGXQXRB8WJxIB/Prototype?node-id=4%3A77&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A77">here </a>to interact with a mockup of my webpage.</li>
+		<ul>
+			<li>Designing</li>
+			<li>Prototyping</li>
+			<li>Fast iterations</li>
+			<li>Click <a href="https://www.figma.com/proto/RQptk8jcMXGXQXRB8WJxIB/Prototype?node-id=4%3A77&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A77">here </a>to interact with a mockup of my webpage.</li>
+		</ul>
 	</div></p>
 </div>
 
