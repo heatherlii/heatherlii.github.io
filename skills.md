@@ -14,6 +14,9 @@ nav-menu: true
 	<div class="inner">
 
 <h2>Figma</h2>
+<p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
+<span class = "image"><img src="{% link assets/images/figma tutorials.png %}" alt="" /></span>
+<h3>My strengths:</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul>
