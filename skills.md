@@ -24,6 +24,7 @@ nav-menu: true
 		<li>Click <a href="https://www.figma.com/proto/RQptk8jcMXGXQXRB8WJxIB/Prototype?node-id=4%3A77&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A77">here </a>to interact with a mockup of my webpage.</li>
 	</div>
 </div>
+<p></p>
 <span class="image fit"><img src="{% link/assets/images/skill figma.png %}" alt="" /></span>
 <hr class="major"/>
 		
