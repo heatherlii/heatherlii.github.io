@@ -29,7 +29,7 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-<div class="6u$ 12u$(medium)">
+</div>
 <span class="image fit"><img src="{% link assets/images/figma proto.png %}" alt="" /></span>
 
 <hr />
