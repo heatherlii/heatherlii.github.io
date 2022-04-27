@@ -14,13 +14,13 @@ nav-menu: true
 	<div class="inner">
 
 <h2>Figma</h2>
-<div class="6u$ 12u$(medium)">
-<p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
-<span class = "image"><img src="{% link assets/images/figma tutorials.png %}" alt="" /></span>
-<div class="6u$ 12u$(medium)">
-<h3>My strengths:</h3>
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="6u$ 12u$(small)">
+		<p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
+		<span class = "image"><img src="{% link assets/images/figma tutorials.png %}" alt="" /></span>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>My strengths:</h3>
 		<ul>
 			<li>Designing</li>
 			<li>Prototyping</li>
@@ -28,7 +28,6 @@ nav-menu: true
 			<li>Click <a href="https://www.figma.com/proto/RQptk8jcMXGXQXRB8WJxIB/Prototype?node-id=4%3A77&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A77">here </a>to interact with a mockup of my webpage.</li>
 		</ul>
 	</div>
-</div>
 </div>
 <span class="image fit"><img src="{% link assets/images/figma proto.png %}" alt="" /></span>
 
