@@ -26,7 +26,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="design_system.html" class="image">
-			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/landing page.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
