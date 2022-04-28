@@ -17,7 +17,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Contextual Help for Enterprise Applications</h3>
 				</header>
-				<p>I worked directly with two Lead designers on the project, and my role was to create the visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
+				<p>For this project, I worked on creating the visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
 				<ul class="actions">
 					<li><a href="contextual_help.html" class="button">Learn more</a></li>
 				</ul>
@@ -31,9 +31,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Design System</h3>
+					<h3>User Experience Design System</h3>
 				</header>
-				<p>Short explanation of what kind of work I did.</p>
+				<p>During my internship at OpenText, I worked on their User Experience Design System which supports 100+ prodcuts across 12 product units, reporting directly to the Lead Designer.</p>
 				<ul class="actions">
 					<li><a href="design_system.html" class="button">Learn more</a></li>
 				</ul>
