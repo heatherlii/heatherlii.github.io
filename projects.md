@@ -10,7 +10,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="contextual_help.html" class="image">
-			<img src="{% link assets/images/context help thumb.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/context help thumb.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
