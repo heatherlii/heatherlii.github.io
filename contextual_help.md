@@ -31,18 +31,17 @@ show_tile: false
 
 <h2>Early Iterations</h2>
 <p>After interacting with a provided a prototype and reading over the results of a usability test, I began creating iterations that incorporated the feedback received from the participants. I wanted to work on the "main layout" of the panel before exploring further elements, hence I started with the overview page and simple information screens (e.g. short paragraphs).</p>
-<p>A common observation that participants made was the simplicity and lack of visual elements in the original design. Thus, I decided to explore with colours and "cards" as content containers.</p>
+<p>A common observation that participants made was the simplicity and lack of visual elements in the original design. Thus, I decided to explore with colours and "cards" as content containers. In the end, after a multiple rounds of iterations, we decided to use a light grey background and white content containers with a blurred drop shadow. With the blurred drop shadow, we felt the white cards had the best level of brightness to make the cards stand out without using harsh colours that did not sit well with the main product.</p>
 <span class="image fit"><img src="{% link assets/images/early iterations.png %}" alt="" /></span>
 
 <h2>Table Iterations</h2>
-<p>After going over my set of iterations with the Lead Designers, I started exploring with other types of content containers: tables. Once again, I started with adding colour to the standard tables and later began reforming the table's layout as shown below. Concerns that we ran into NOT DONE YET!</p>
-<p>Wanted a more "modern" table (not basic) not something that matches the panel colour and users ("older non-design workers"?) are comfortable with. Hence, explored with different ways to display a "table of info": standard, multi cards, lightweight, callout cards. Explain why decided against black/dark tables.</p>
+<p>After going over my set of iterations with the Lead Designers, I started exploring with other types of content containers: tables. Once again, I started with adding colour to the standard tables and later began reforming the table's layout, as shown below, for a more modern look. We decided to go through with the lightweight table outlined in red due to its ability to clearly communicate information while still maintaining the image of a table and conforming to the description cards' design.</p>
 <span class="image fit"><img src="{% link assets/images/table iterations.png %}" alt="" /></span>
 		
 <h2>Tip Card Iterations</h2>
-<p>Explain that we thought of going for a "post it" type of feel. Not to bright (harsh to eyes) but enough to emphasize and draw attention to the info (so reader does not just skim through that section as it can help them).</p>
+<p>For the tip cards, we thought of creating cards that are similar to Post-it notes, hence the bright yellow and blue colours. Most of my exploration concerned the size and placement of the tip icon as well as different shades of yellow and blue.</p>
 <span class="image fit"><img src="{% link assets/images/tips.png %}" alt="" /></span>
 
 <h2>Dark Mode Exploration</h2>
-<p>Explain how lots of people like and use dark mode often. Adding dark mode panels can help improve their user experience (match their other apps & overall desktop "display theme")</p>
+<p>After finalizing the design for the standard panels, we were asked about the possibility of creating a set of 'dark mode versions'. Many users prefer dark mode, thus having congruent panels would help improve their user experience.</p>
 <span class="image fit"><img src="{% link assets/images/dark mode.png %}" alt="" /></span>
