@@ -37,6 +37,8 @@ show_tile: false
 	</div>
 </div>
 
+<hr class="major"/>
+
 <h3>Infographics</h3>
 <p>The infographics below were created during the early stages of the Black Lives Matter movement for the Dance program I was part of in high school. The main goal was to recognize and emphasize the influence Black culture and Black dancers have on the dance community. All infographics were released and shared with the (currently) 577 followers of the Arts Unionville Dance Instagram page.</p>
 <div class="box alt">
@@ -46,6 +48,8 @@ show_tile: false
 		<div class="4u$"><span class="image fit"><img src="{% link assets/images/nicholas brothers.png %}" alt="" /></span></div>
 	</div>
 </div>
+
+<hr class="major"/>
 
 <h3>Posters</h3>
 <p>For more details about my work with clothing merchandise, please see the <a href="https://heatherlii.github.io/product_design.html">Product Design</a> page.</p>
