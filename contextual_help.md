@@ -22,7 +22,7 @@ show_tile: false
 <h2>Overview</h2>
 <p>I worked directly with two Lead designers on the project, and my role was to create visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
 <p>One of our main goals was to ensure the feature would not be confused with the primary product that it was related to. As such, I was not required to strictly follow existing standards. However, I still needed to provide a design that could sit alongside the existing product design language with a strong level of cohesiveness.</p>
-<p>We initially identified a few key screens that contained a variety of information types reanging from standard content paragraphs to tables and callout information. I explored numerous rounds of iteration exploring colour, depth and content containers.</p>
+<p>We initially identified a few key screens that contained a variety of information types from standard content paragraphs to tables and callout information. I explored numerous rounds of iteration exploring colour, depth and content containers.</p>
 <p>As we narrowed down the styling I also created interactive prototypes that showed the Help panel working and the navigation between various levels.</p>
 <span class="image fit"><img src="{% link assets/images/screen mockups.png %}" alt="" /></span>
 
@@ -39,7 +39,7 @@ show_tile: false
 <span class="image fit"><img src="{% link assets/images/table iterations.png %}" alt="" /></span>
 		
 <h2>Tip Card Iterations</h2>
-<p>For the tip cards, we thought of creating cards that are similar to Post-it notes, hence the bright yellow and blue colours. Most of my exploration concerned the size and placement of the tip icon as well as different shades of yellow and blue.</p>
+<p>For the tip cards, we thought of creating cards that are similar to Post-it notes, hence the bright yellow and blue colours. Most of my exploration concerned the size and placement of the tip icon as well as different shades and levels of opacity of yellow and blue.</p>
 <span class="image fit"><img src="{% link assets/images/tips.png %}" alt="" /></span>
 
 <h2>Dark Mode Exploration</h2>
