@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, welcome to my attempt at a portfolio'
+landing-title: 'Hi, welcome to my portfolio'
 description: null
 image: null
 author: null
