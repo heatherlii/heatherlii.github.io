@@ -9,6 +9,22 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
+		<a href="crm.html" class="image">
+			<img src="{% link assets/images/help thumb.png %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>WSIB Employer Dashboard (CRM Tool)</h3>
+				</header>
+				<p>add a brief sentence here to explain what I worked on.</p>
+				<ul class="actions">
+					<li><a href="crm.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="contextual_help.html" class="image">
 			<img src="{% link assets/images/help thumb.png %}" alt="" data-position="25% 25%" />
 		</a>
