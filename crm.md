@@ -37,7 +37,7 @@ show_tile: false
 
 <!-- Content -->
 		
-<p{margin:0}> Date: Sept. 2022 - Dec. 2022</p>
+<p{margin:0}>Date: Sept. 2022 - Dec. 2022</p>
 <p>Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
 
 <h2>Team Details</h2>
