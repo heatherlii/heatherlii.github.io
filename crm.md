@@ -20,6 +20,11 @@ show_tile: false
 	     </header>		
 		
 <!-- Content -->
+<ul class="actions vertical">
+	<li><a href="#" class="button special">Team Details</a></li>
+	<li><a href="#" class="button">Project Overview</a></li>
+</ul>
+		
 <ul>
 	<li>
 		<span class="button small">Team Details</span>
