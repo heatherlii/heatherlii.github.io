@@ -18,26 +18,38 @@ show_tile: false
 	     <header class="major">
 		<h1>WSIB Employer Dashboard (CRM Tool)</h1>
 	     </header>		
+		
+<!-- Content -->
+<li>
+	<span class="button small disabled">Team Details</span>
+</li>
+<li>
+	<span class="button small disabled">Project Overview</span>
+</li>
+<li>
+	<span class="button small disabled">Project Goals</span>
+</li>
+<li>
+	<span class="button small disabled">Initial Research and Exploration</span>
+</li>
+<li>
+	<span class="button small disabled">Design Process</span>
+</li>
+<li>
+	<span class="button small disabled">Design Iterations</span>
+</li>
+<li>
+	<span class="button small disabled">Usability Testing</span>
+</li>
+<li>
+	<span class="button small disabled">Takeaways</span>
+</li>
 
+		
 <h2>Overview</h2>
 <p>I worked directly with two Lead designers on the project, and my role was to create visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
 
-		
-<h4>Pagination</h4>
-<ul class="pagination">
-	<li>
-		<span class="button small disabled">Prev</span>
-	</li>
-	<li>
-		<a href="#" class="page active">1</a>
-	</li>
-	<li>
-		<a href="#" class="page">2</a>
-	</li>
-		<li>
-		<a href="#" class="page">3</a>
-	</li>
-		<li>
-		<a href="#" class="button small">Next</a>
-	</li>
-</ul>
+</div>
+</section>
+	
+</div>
