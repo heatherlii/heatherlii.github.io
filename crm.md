@@ -36,7 +36,9 @@ show_tile: false
 </ul>
 
 <!-- Content -->
-		
+<blockquote>Date: Sept. 2022- Dec. 2022</blockquote>
+<blockquote>Tools: Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</blockquote>
+
 <p{margin:0}>Date: Sept. 2022 - Dec. 2022</p>
 <p>Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
 
