@@ -21,10 +21,15 @@ show_tile: false
 		
 <!-- Content Overview -->
 <div class="row">
-	<li><a href="#" class="button special">Team Details</a></li>
-	<li><a href="#" class="button">Project Overview</a></li>
+	<div class="6u 12u$(small)">
+		<ul class="actions small">
+			<li><a href="#" class="button special">Team Details</a></li>
+			<li><a href="#" class="button">Project Overview</a></li>
+		</ul>
+	</div>
 </div>
 		
+
 <!-- Content -->
 		
 <p>Date: Sept. 2022 - Dec. 2022</p>
