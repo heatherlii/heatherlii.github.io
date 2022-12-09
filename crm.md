@@ -20,11 +20,16 @@ show_tile: false
 	     </header>		
 		
 <!-- Content Overview -->
+<ul class="actions">
+	<li><a href="#" class="button small">Team Details</a></li>
+	<li><a href="#" class="button small">Project Overview</a></li>
+</ul>
+
 <div class="row">
 	<div class="6u 12u$(small)">
 		<ul class="actions small">
-			<li><a href="#" class="button special">Team Details</a></li>
-			<li><a href="#" class="button">Project Overview</a></li>
+			<li><a href="#" class="button small">Team Details</a></li>
+			<li><a href="#" class="button small">Project Overview</a></li>
 		</ul>
 	</div>
 </div>
