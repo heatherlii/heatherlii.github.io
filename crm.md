@@ -19,39 +19,14 @@ show_tile: false
 		<h1>WSIB Employer Dashboard (CRM Tool)</h1>
 	     </header>		
 		
-<!-- Content -->
-<ul class="actions vertical">
+<!-- Content Overview -->
+<div class="row">
 	<li><a href="#" class="button special">Team Details</a></li>
 	<li><a href="#" class="button">Project Overview</a></li>
-</ul>
+</div>
 		
-<ul>
-	<li>
-		<span class="button small">Team Details</span>
-	</li>
-	<li>
-		<span class="button small">Project Overview</span>
-	</li>
-	<li>
-		<span class="button small">Project Goals</span>
-	</li>
-	<li>
-		<span class="button small">Initial Research and Exploration</span>
-	</li>
-	<li>
-		<span class="button small">Design Process</span>
-	</li>
-	<li>
-		<span class="button small">Design Iterations</span>
-	</li>
-	<li>
-		<span class="button small">Usability Testing</span>
-	</li>
-	<li>
-		<span class="button small">Takeaways</span>
-	</li>
-</ul>
-
+<!-- Content -->
+		
 <p>Date: Sept. 2022 - Dec. 2022</p>
 <p>Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
 		
