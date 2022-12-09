@@ -20,30 +20,32 @@ show_tile: false
 	     </header>		
 		
 <!-- Content -->
-<li>
-	<span class="button small disabled">Team Details</span>
-</li>
-<li>
-	<span class="button small disabled">Project Overview</span>
-</li>
-<li>
-	<span class="button small disabled">Project Goals</span>
-</li>
-<li>
-	<span class="button small disabled">Initial Research and Exploration</span>
-</li>
-<li>
-	<span class="button small disabled">Design Process</span>
-</li>
-<li>
-	<span class="button small disabled">Design Iterations</span>
-</li>
-<li>
-	<span class="button small disabled">Usability Testing</span>
-</li>
-<li>
-	<span class="button small disabled">Takeaways</span>
-</li>
+<ul>
+	<li>
+		<span class="button small">Team Details</span>
+	</li>
+	<li>
+		<span class="button small">Project Overview</span>
+	</li>
+	<li>
+		<span class="button small">Project Goals</span>
+	</li>
+	<li>
+		<span class="button small">Initial Research and Exploration</span>
+	</li>
+	<li>
+		<span class="button small">Design Process</span>
+	</li>
+	<li>
+		<span class="button small">Design Iterations</span>
+	</li>
+	<li>
+		<span class="button small">Usability Testing</span>
+	</li>
+	<li>
+		<span class="button small">Takeaways</span>
+	</li>
+</ul>
 
 <p>Date: Sept. 2022 - Dec. 2022</p>
 <p>Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
