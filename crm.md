@@ -23,6 +23,13 @@ show_tile: false
 <ul class="actions">
 	<li><a href="#" class="button small">Team Details</a></li>
 	<li><a href="#" class="button small">Project Overview</a></li>
+	<li><a href="#" class="button small">Project Goals</a></li>
+	<li><a href="#" class="button small">Initial Research & Exploration</a></li>
+	<li><a href="#" class="button small">Design Process</a></li>
+	<li><a href="#" class="button small">Design Iterations</a></li>
+	<li><a href="#" class="button small">User Flow</a></li>
+	<li><a href="#" class="button small">Usability Testing</a></li>
+	<li><a href="#" class="button small">Takeaways</a></li>
 </ul>
 
 <div class="row">
@@ -30,6 +37,13 @@ show_tile: false
 		<ul class="actions small">
 			<li><a href="#" class="button small">Team Details</a></li>
 			<li><a href="#" class="button small">Project Overview</a></li>
+			<li><a href="#" class="button small">Project Goals</a></li>
+			<li><a href="#" class="button small">Initial Research & Exploration</a></li>
+			<li><a href="#" class="button small">Design Process</a></li>
+			<li><a href="#" class="button small">Design Iterations</a></li>
+			<li><a href="#" class="button small">User Flow</a></li>
+			<li><a href="#" class="button small">Usability Testing</a></li>
+			<li><a href="#" class="button small">Takeaways</a></li>
 		</ul>
 	</div>
 </div>
