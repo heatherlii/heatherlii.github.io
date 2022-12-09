@@ -45,8 +45,10 @@ show_tile: false
 	<span class="button small disabled">Takeaways</span>
 </li>
 
+<p>Date: Sept. 2022 - Dec. 2022</p>
+<p>Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
 		
-<h2>Overview</h2>
+<h2>Team Details</h2>
 <p>I worked directly with two Lead designers on the project, and my role was to create visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
 
 </div>
