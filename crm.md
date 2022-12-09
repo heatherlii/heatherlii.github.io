@@ -37,9 +37,9 @@ show_tile: false
 
 <!-- Content -->
 		
-<p>Date: Sept. 2022 - Dec. 2022
-	Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
-		
+<p { margin:0 } Date: Sept. 2022 - Dec. 2022</p>
+<p>Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
+
 <h2>Team Details</h2>
 <p>I worked directly with two Lead designers on the project, and my role was to create visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
 
