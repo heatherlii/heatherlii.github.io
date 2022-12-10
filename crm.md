@@ -35,7 +35,7 @@ show_tile: false
 	<li><a href="#ProjectGoals" class="button small scrolly">Project Goals</a></li>
 	<li><a href="#Research" class="button small scrolly">Initial Research & Exploration</a></li>
 	<li><a href="#DesignProcess" class="button small scrolly">Design Process</a></li>
-	<li><a href="#DesignIterations" class="button small">Design Iterations</a></li>
+	<li><a href="#please" class="button small">Design Iterations</a></li>
 </ul>
 <ul class="actions">
 	<li><a href="#UserFlow" class="button small">User Flow</a></li>
@@ -79,7 +79,7 @@ show_tile: false
 </section>
 	
 <!-- Design Iterations -->
-<section id="DesignIterations">
+<section id="please">
 	<h2>Design Iterations</h2>
 	<h3>Iteration 1</h3>
 	<p>write about the first iteration here</p>
