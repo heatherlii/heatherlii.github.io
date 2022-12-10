@@ -18,16 +18,6 @@ show_tile: false
 	     <header class="major">
 		<h1>WSIB Employer Dashboard (CRM Tool)</h1>
 	     </header>		
-
-<!-- General Info -->
-<blockquote> 
-	<p><b>Date:</b> Sept. 2022- Dec. 2022</p>
-	<p><b>Tools:</b> Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
-	<p><b>Designers:</b> -----</p>
-	<p><b>Developpers:</b> -----</p>
-	<p><b>Communications:</b> -----</p>
-	<p><b>Leads:</b> -----</p>
-</blockquote>
 		
 <!-- Shortcuts -->
 <ul class="actions">
@@ -42,6 +32,16 @@ show_tile: false
 	<li><a href="#UsabilityTesting" class="button small scrolly">Usability Testing</a></li>
 	<li><a href="#Takeaways" class="button small scrolly">Takeaways</a></li>
 </ul>
+		
+<!-- General Info -->
+<blockquote> 
+	<p><b>Date:</b> Sept. 2022- Dec. 2022</p>
+	<p><b>Tools:</b> Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
+	<p><b>Designers:</b> -----</p>
+	<p><b>Developpers:</b> -----</p>
+	<p><b>Communications:</b> -----</p>
+	<p><b>Leads:</b> -----</p>
+</blockquote>
 		
 <!-- Project Overview -->
 <section id="ProjectOverview">
