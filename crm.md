@@ -30,11 +30,14 @@ show_tile: false
 	<p><b>Communications:</b> -----</p>
 	<p><b>Leads:</b> -----</p>
 </blockquote>
+
+<ul class="actions vertical">
+	<li><a href="#contact" class="button special fit scrolly">Contact Me</a></li>
+</ul>
 		
 <!-- Shortcuts -->
 <ul class="actions">
-	<li><a href="#" class="button small">Team Details</a></li>
-	<li><a href="#" class="button small">Project Overview</a></li>
+	<li><a href="#ProjectOverview" class="button special fit scrolly">Project Overview</a></li>
 	<li><a href="#" class="button small">Project Goals</a></li>
 	<li><a href="#" class="button small">Initial Research & Exploration</a></li>
 	<li><a href="#" class="button small">Design Process</a></li>
@@ -46,10 +49,17 @@ show_tile: false
 	<li><a href="#" class="button small">Usability Testing</a></li>
 	<li><a href="#" class="button small">Takeaways</a></li>
 </ul>
-
-<h2>Project Overview</h2>
-<p>write about the project here</p>
-
+		
+</section>
+		
+<!-- Two -->
+<section id="ProjectOverview">
+	<div class="inner">
+	     <header class="major">
+		<h2>Project Overview</h2>
+			<p>write about the project here</p>
+	     </header>	
+		
 <h2>Project Goals</h2>
 <h3>Lab Goal</h3>
 <p>write goal here</p>
