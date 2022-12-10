@@ -39,14 +39,17 @@ show_tile: false
 <blockquote> 
 	<p>Date: Sept. 2022- Dec. 2022</p>
 	<p>Tools: Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
+	<p></p>
+	<h2>Team Details</h2>
+	<p>Designers:-----</p>
+	<p>Developpers:-----</p>
+	<p>Communications:-----</p>
+	<p>Leads:-----</p>
 </blockquote>
 
-<p{margin:0}>Date: Sept. 2022 - Dec. 2022</p>
-<p>Tools: Figma, Maze.co, Miro, Slack, Dropbox, Google Meet, Zoom</p>
-
-<h2>Team Details</h2>
-<p>I worked directly with two Lead designers on the project, and my role was to create visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
-
+<h2>Project Overview</h2>
+<p>write about the project here</p>
+	
 </div>
 </section>
 	
