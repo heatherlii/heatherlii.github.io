@@ -36,12 +36,12 @@ show_tile: false
 	<li><a href="#Research" class="button small scrolly">Initial Research & Exploration</a></li>
 	<li><a href="#DesignProcess" class="button small scrolly">Design Process</a></li>
 	<li><a href="#DesignIterations" class="button small">Design Iterations</a></li>
+</ul>
+<ul class="actions">
 	<li><a href="#UserFlow" class="button small">User Flow</a></li>
 	<li><a href="#UsabilityTesting" class="button small">Usability Testing</a></li>
 	<li><a href="#Takeaways" class="button small">Takeaways</a></li>
 </ul>
-		
-</section>
 		
 <!-- Project Overview -->
 <section id="ProjectOverview">
