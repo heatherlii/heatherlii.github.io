@@ -100,7 +100,6 @@ show_tile: false
 <!-- Usability Testing -->
 <section id="UsabilityTesting">
 	<h2>Usability Testing</h2>
-	<h3>Iteration 3</h3>
 	<p>write about testing here</p>
 	<html>
 		<head>
