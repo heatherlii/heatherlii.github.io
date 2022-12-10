@@ -24,7 +24,7 @@ show_tile: false
 	<p>Date: Sept. 2022- Dec. 2022</p>
 	<p>Tools: Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
 	<p></p>
-	<b><i>Team Details</i></p>
+	<b><i>Team Details</i></b>
 	<p>Designers:-----</p>
 	<p>Developpers:-----</p>
 	<p>Communications:-----</p>
