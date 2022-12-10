@@ -14,17 +14,7 @@ nav-menu: true
 	<div class="inner">
 
 <h2>Figma</h2>
-<div class="row">
-	<h3>My strengths:</h3>
-	<div class="6u 12u$(small)">
-		<ul>
-			<li>Designing</li>
-			<li>Prototyping</li>
-			<li>Fast iterations</li>
-		</ul>
-	</div>
-</div>
-<p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
+<p>I am proficient in Figma. talk about strengths/design skills? list features I can leverage? briefly describe the file + prototype below, draft ver. of my portfolio/website (to showcase my Figma abilities).</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<html>
