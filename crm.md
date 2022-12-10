@@ -43,11 +43,15 @@ show_tile: false
 	<p><b>Leads:</b> -----</p>
 </blockquote>
 		
+<hr class="major"/>
+		
 <!-- Project Overview -->
 <section id="ProjectOverview">
 	<h2>Project Overview</h2>
 	<p>write about the project here</p>
 </section>
+		
+<hr class="major"/>
 		
 <!-- Project Goals -->
 <section id="ProjectGoals">
@@ -57,6 +61,8 @@ show_tile: false
 	<h3>Stakeholder Goal</h3>
 	<p>write goal here</p>
 </section>
+		
+<hr class="major"/>
 
 <!-- Initial Research & Exploration -->
 <section id="Research">
@@ -69,6 +75,8 @@ show_tile: false
 	<p>write about the workshop here</p>
 </section>
 		
+<hr class="major"/>
+		
 <!-- Design Process -->
 <section id="DesignProcess">		
 	<h2>Design Process</h2>
@@ -77,6 +85,8 @@ show_tile: false
 	<h3>Wireframes</h3>
 	<p>write about the process here</p>
 </section>
+		
+<hr class="major"/>
 	
 <!-- Design Iterations -->
 <section id="DesignIterations">
@@ -91,11 +101,15 @@ show_tile: false
 	<p>write about the third iteration (ver 2) here</p>
 </section>
 	
+<hr class="major"/>
+		
 <!-- User Flow -->
 <section id="UserFlow">
 	<h2>User Flow</h2>
 	<p>include the prototype of the general user flow (from landing page to profile/glossary)</p>
 </section>	
+	
+<hr class="major"/>
 	
 <!-- Usability Testing -->
 <section id="UsabilityTesting">
@@ -120,6 +134,8 @@ show_tile: false
 		</body>
 	</html>
 </section>
+		
+<hr class="major"/>
 		
 <!-- Takeawyas -->
 <section id="Takeaways">
