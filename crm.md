@@ -106,7 +106,7 @@ show_tile: false
 		<head>
 			<style>
 				#content {
-					width: 800px;
+					width: 100%;
 					margin: auto;
 					height: 100%;
 					display: flex;
