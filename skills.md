@@ -21,12 +21,50 @@ nav-menu: true
 			<li>Designing</li>
 			<li>Prototyping</li>
 			<li>Fast iterations</li>
-			<li>Click <a href="https://www.figma.com/proto/RQptk8jcMXGXQXRB8WJxIB/Prototype?node-id=4%3A77&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A77">here </a>to interact with a mockup of my webpage.</li>
 		</ul>
 	</div>
 </div>
 <p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
-<span class="image fit"><img src="{% link/assets/images/skill figma.png %}" alt="" /></span>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<html>
+			<head>
+				<style>
+					#content {
+						width: 100%;
+						margin: auto;
+						height: 100%;
+						display: flex;
+						align-items: center;
+						}
+				</style>
+			</head>
+			<body>
+				<div id="content">
+					<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FRQptk8jcMXGXQXRB8WJxIB%2Fwebpage-prototype%3Fnode-id%3D0%253A1%26t%3DXHuhf9TLEruKct30-1" allowfullscreen></iframe>
+				</div>
+			</body>
+		</html>
+		<html>
+			<head>
+				<style>
+					#content {
+						width: 100%;
+						margin: auto;
+						height: 100%;
+						display: flex;
+						align-items: center;
+						}
+				</style>
+			</head>
+			<body>
+				<div id="content">
+					<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRQptk8jcMXGXQXRB8WJxIB%2Fwebpage-prototype%3Fnode-id%3D4%253A77%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A77" allowfullscreen></iframe> 	
+				</div>
+			</body>
+		</html>
+	</div>
+</div>
 
 <hr class="major"/>
 
