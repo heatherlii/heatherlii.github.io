@@ -2,7 +2,7 @@
 title: Projects
 layout: landing
 description: Look at what I've made!
-image: assets/images/help thumb.png
+image: assets/images/screen mockups.png
 nav-menu: true
 ---
 
