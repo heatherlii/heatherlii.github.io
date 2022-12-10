@@ -21,14 +21,14 @@ show_tile: false
 
 <!-- Content -->
 <blockquote> 
-	<p>Date: Sept. 2022- Dec. 2022</p>
-	<p>Tools: Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
-	<p></p>
-	<b><i>Team Details</i></b>
-	<p>Designers:-----</p>
-	<p>Developpers:-----</p>
-	<p>Communications:-----</p>
-	<p>Leads:-----</p>
+	<p><i>Date:</i> Sept. 2022- Dec. 2022</p>
+	<p><i>Tools:</i> Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
+	<p> </p>
+	<b>Team Details</b>
+	<p><i>Designers:</i> -----</p>
+	<p><i>Developpers:</i> -----</p>
+	<p><i>Communications:</i> -----</p>
+	<p><i>Leads:</i> -----</p>
 </blockquote>
 		
 <!-- Shortcuts -->
