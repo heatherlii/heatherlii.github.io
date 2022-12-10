@@ -30,18 +30,22 @@ show_tile: false
 </blockquote>
 		
 <!-- Shortcuts -->
-<ul class="actions">
-	<li><a href="#ProjectOverview" class="button small scrolly">Project Overview</a></li>
-	<li><a href="#ProjectGoals" class="button small scrolly">Project Goals</a></li>
-	<li><a href="#Research" class="button small scrolly">Initial Research & Exploration</a></li>
-	<li><a href="#DesignProcess" class="button small scrolly">Design Process</a></li>
-	<li><a href="#please" class="button small">Design Iterations</a></li>
-</ul>
-<ul class="actions">
-	<li><a href="#UserFlow" class="button small">User Flow</a></li>
-	<li><a href="#UsabilityTesting" class="button small">Usability Testing</a></li>
-	<li><a href="#Takeaways" class="button small">Takeaways</a></li>
-</ul>
+<div class="inner">
+	<ul class="actions">
+		<li><a href="#ProjectOverview" class="button small scrolly">Project Overview</a></li>
+		<li><a href="#ProjectGoals" class="button small scrolly">Project Goals</a></li>
+		<li><a href="#Research" class="button small scrolly">Initial Research & Exploration</a></li>
+		<li><a href="#DesignProcess" class="button small scrolly">Design Process</a></li>
+		<li><a href="#please" class="button small">Design Iterations</a></li>
+	</ul>
+</div>
+<div class="inner">
+	<ul class="actions">
+		<li><a href="#UserFlow" class="button small">User Flow</a></li>
+		<li><a href="#UsabilityTesting" class="button small">Usability Testing</a></li>
+		<li><a href="#Takeaways" class="button small">Takeaways</a></li>
+	</ul>
+</div>
 		
 <!-- Project Overview -->
 <section id="ProjectOverview">
