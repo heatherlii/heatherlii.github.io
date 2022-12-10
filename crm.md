@@ -23,8 +23,8 @@ show_tile: false
 <blockquote> 
 	<p><b>Date:</b> Sept. 2022- Dec. 2022</p>
 	<p><b>Tools:</b> Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
-	<p> </p>
-	<b>Team Details</b>
+	<p>   </p>
+	<b><u>Team Details</u></b>
 	<p><b>Designers:</b> -----</p>
 	<p><b>Developpers:</b> -----</p>
 	<p><b>Communications:</b> -----</p>
