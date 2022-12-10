@@ -25,8 +25,8 @@ nav-menu: true
 	</div>
 </div>
 <p>During my internship at OpenText, I created Figma exercises to present during bi-weekly tutorials for senior members of the Visual Design team.</p>
-<div class="box alt">
-	<div class="row 50% uniform">
+<div class="row">
+	<div class="6u 12u$(small)">
 		<html>
 			<head>
 				<style>
@@ -45,6 +45,8 @@ nav-menu: true
 				</div>
 			</body>
 		</html>
+	</div>
+	<div class="6u 12u$(small)">
 		<html>
 			<head>
 				<style>
