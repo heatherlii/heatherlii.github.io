@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: UX/UI Projects
 layout: landing
 description: Look at what I've made!
 image: assets/images/screen mockups.png
