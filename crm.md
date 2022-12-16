@@ -23,7 +23,7 @@ show_tile: false
 <ul class="actions">
 	<li><a href="#ProjectOverview" class="button small scrolly">Project Overview</a></li>
 	<li><a href="#ProjectGoals" class="button small scrolly">Project Goals</a></li>
-	<li><a href="#Research" class="button small scrolly">Initial Research & Exploration</a></li>
+	<li><a href="#Research" class="button small scrolly">Research</a></li>
 	<li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li>
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
 </ul>
@@ -66,7 +66,7 @@ show_tile: false
 
 <!-- Initial Research -->
 <section id="Research">
-	<h2>Initial Research & Exploration</h2>
+	<h2>Research</h2>
 	<h3>Job Shadowing with Stakeholders (User Interviews)</h3>
 	<p>write about the job shadowing here</p>
 	<h3>Thematic Analysis of Findings</h3>
