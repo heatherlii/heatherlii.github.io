@@ -26,8 +26,6 @@ show_tile: false
 	<li><a href="#Research" class="button small scrolly">Research</a></li>
 	<li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li>
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
-</ul>
-<ul class="actions">
 	<li><a href="#UserTesting" class="button small scrolly">User Testing</a></li>
 	<li><a href="#Takeaways" class="button small scrolly">Takeaways</a></li>
 </ul>
