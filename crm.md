@@ -8,13 +8,6 @@ nav-menu: true
 
 <!-- Main -->
 <div id="main" class="alt">
-	
-<!-- Content -->
-<section id="one">
-	<div class="inner">
-	     <header class="major">
-		<h1>WSIB Employer Dashboard (CRM Tool)</h1>
-	     </header>		
 		
 <!-- Shortcuts -->
 <ul class="actions">
@@ -141,7 +134,4 @@ nav-menu: true
 	<p>write conclusion/takeaways here + what I would continue to work on if I had more time</p>
 </section>
 	
-</div>
-	
-</section>
 </div>
