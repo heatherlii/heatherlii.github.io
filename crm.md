@@ -29,7 +29,7 @@ show_tile: false
 </ul>
 <ul class="actions">
 	<li><a href="#UserFlow" class="button small scrolly">User Flow</a></li>
-	<li><a href="#UsabilityTesting" class="button small scrolly">Usability Testing</a></li>
+	<li><a href="#UserTesting" class="button small scrolly">User Testing</a></li>
 	<li><a href="#Takeaways" class="button small scrolly">Takeaways</a></li>
 </ul>
 		
@@ -123,9 +123,9 @@ show_tile: false
 	
 <hr class="major"/>
 	
-<!-- Usability Testing -->
-<section id="UsabilityTesting">
-	<h2>Usability Testing with Maze.co</h2>
+<!-- User Testing -->
+<section id="UserTesting">
+	<h2>User Testing with Maze.co</h2>
 	<p>write about testing here</p>
 <!--	<html>
 		<head>
