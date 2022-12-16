@@ -91,14 +91,34 @@ show_tile: false
 <!-- Design Iterations -->
 <section id="DesignIterations">
 	<h2>Design Iterations</h2>
-	<h3>Iteration 1</h3>
-	<p>write about the first iteration here</p>
+	<h3>Iteration 1.1</h3>
+	<p>write about v1 of the first iteration here</p>
+	<h4>Sketches</h4>
+	<p>explain the initial ideation process</p>
+	<p>+ showcase some sketches</p>
+	<h4>Lo-fi Mockups</h4>
+	<p>explain + showcase the wireframes/lo-fis</p>
+	<h4>Mid-fi Mockups</h4>
+	<p>explain + showcase the mid-fis</p>
+	</h3>Iteration 1.2</h3>
+	<p>write about the v2 of the first iteration here</p>
+	<h4>Mid-fi Mockups</h4>
+	<p>explain + showcase the mid-fis</p>
+	<h4>Hi-fi Mockups</h4>
+	<p>explain + showcase the hi-fis</p>
+	<p>+ link prototype</p>
 	<h3>Iteration 2</h3>
-	<p>write about the second iteration here</p>
+	<p>write about the second iteration here (+ the change slight change direction)</p>
+	<h4>Mid-fi Mockups</h4>
+	<p>explain + showcase the mid-fis</p>
+	<h4>Hi-fi Mockups</h4>
+	<p>explain + showcase the hi-fis</p>
 	<h3>Iteration 3.1</h3>
-	<p>write about the third iteration (ver 1) here</p>
-	<h3>Iteration 3.2</h3>
 	<p>write about the third iteration (ver 2) here</p>
+	<h4>Mid-fi Mockups</h4>
+	<p>explain + showcase the mid-fis</p>
+	<h4>Hi-fi Mockups</h4>
+	<p>explain + showcase the hi-fis</p>
 </section>
 	
 <hr class="major"/>
