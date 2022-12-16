@@ -3,7 +3,7 @@ title: WSIB Employer Dashboard
 layout: landing
 description: 'maybe leave this bit blank?'
 image: assets/images/turtleonshape.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
