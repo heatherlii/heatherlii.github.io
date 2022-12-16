@@ -125,7 +125,7 @@ show_tile: false
 	
 <!-- Usability Testing -->
 <section id="UsabilityTesting">
-	<h2>Usability Testing</h2>
+	<h2>Usability Testing with Maze.co</h2>
 	<p>write about testing here</p>
 <!--	<html>
 		<head>
