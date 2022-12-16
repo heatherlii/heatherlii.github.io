@@ -1,12 +1,9 @@
 ---
-layout: page
-title: WSIB Employer Dashboard (CRM Tool)
-landing-title: 'WSIB Employer Dashboard (CRM Tool)'
-nav-menu: false
-description: null
-image: null
-author: null
-show_tile: false
+title: WSIB Employer Dashboard
+layout: landing
+description: 'maybe leave this bit blank?'
+image: assets/images/turtleonshape.jpg
+nav-menu: true
 ---
 
 <!-- Main -->
