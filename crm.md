@@ -28,7 +28,6 @@ show_tile: false
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
 </ul>
 <ul class="actions">
-	<li><a href="#UserFlow" class="button small scrolly">User Flow</a></li>
 	<li><a href="#UserTesting" class="button small scrolly">User Testing</a></li>
 	<li><a href="#Takeaways" class="button small scrolly">Takeaways</a></li>
 </ul>
@@ -112,14 +111,6 @@ show_tile: false
 	<p>write about the additions (more/new sections)</p>
 	<p>+prototype</p>
 </section>
-	
-<hr class="major"/>
-		
-<!-- User Flow -->
-<section id="UserFlow">
-	<h2>User Flow</h2>
-	<p>include the prototype of the general user flow (from landing page to profile/glossary)</p>
-</section>	
 	
 <hr class="major"/>
 	
