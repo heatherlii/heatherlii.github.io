@@ -8,6 +8,10 @@ nav-menu: false
 
 <!-- Main -->
 <div id="main" class="alt">
+	
+<!-- One -->
+<section id="one">
+	<div class="inner">
 		
 <!-- Shortcuts -->
 <ul class="actions">
@@ -134,4 +138,7 @@ nav-menu: false
 	<p>write conclusion/takeaways here + what I would continue to work on if I had more time</p>
 </section>
 	
+</div>
+</section>
+
 </div>
