@@ -21,13 +21,13 @@ show_tile: false
 		
 <!-- Shortcuts -->
 <ul class="actions">
-	<li><a href="#ProjectOverview" class="button small scrolly">Project Overview</a></li>
-	<li><a href="#ProjectGoals" class="button small scrolly">Project Goals</a></li>
+	<li><a href="#Overview" class="button small scrolly">Overview</a></li>
+	<li><a href="#ProjectGoals" class="button small scrolly">Goals</a></li>
 	<li><a href="#Research" class="button small scrolly">Research</a></li>
 	<li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li>
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
 	<li><a href="#UserTesting" class="button small scrolly">User Testing</a></li>
-	<li><a href="#Takeaways" class="button small scrolly">Takeaways</a></li>
+	<li><a href="#WhatsNext" class="button small scrolly">What's Next?</a></li>
 </ul>
 		
 <!-- General Info -->
@@ -43,7 +43,7 @@ show_tile: false
 <hr class="major"/>
 		
 <!-- Project Overview -->
-<section id="ProjectOverview">
+<section id="Overview">
 	<h2>Project Overview</h2>
 	<p>write about the project here</p>
 </section>
@@ -139,9 +139,9 @@ show_tile: false
 <hr class="major"/>
 		
 <!-- Takeawyas -->
-<section id="Takeaways">
-	<h2>Takeaways</h2>
-	<p>write conclusion here + what I would continue to work on if I had more time</p>
+<section id="WhatsNext">
+	<h2>What's Next?</h2>
+	<p>write conclusion/takeaways here + what I would continue to work on if I had more time</p>
 </section>
 	
 </div>
