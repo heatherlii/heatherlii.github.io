@@ -100,7 +100,7 @@ show_tile: false
 	<p>explain + showcase the wireframes/lo-fis</p>
 	<h4>Mid-fi Mockups</h4>
 	<p>explain + showcase the mid-fis</p>
-	</h3>Iteration 1.2</h3>
+	<h3>Iteration 1.2</h3>
 	<p>write about the v2 of the first iteration here</p>
 	<h4>Mid-fi Mockups</h4>
 	<p>explain + showcase the mid-fis</p>
