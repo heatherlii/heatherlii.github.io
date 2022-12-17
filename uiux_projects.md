@@ -9,14 +9,11 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- One 
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>UI/UX Projects</h1>
-		</header>
   </div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
