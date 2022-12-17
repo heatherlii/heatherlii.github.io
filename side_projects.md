@@ -8,8 +8,6 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<div class="inner">
- 	</div>
 	<section>
 		<a href="3d_printed_puzzle.html" class="image">
 			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="25% 25%" />
