@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: WSIB Employer Dashboard
-landing-title: 'Product Design'
+landing-title: 'WSIB Employer Dashboard'
 nav-menu: false
 description: null
 image: assets/images/turtleonshape.jpg
@@ -15,9 +15,9 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	     <header class="major">
+	     <!-- header class="major">
 		<h1>WSIB Employer Dashboard</h1>
-	     </header>		
+	     </header -->		
 		
 <!-- Shortcuts -->
 <ul class="actions">
