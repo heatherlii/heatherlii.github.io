@@ -6,8 +6,11 @@ image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
-<!-- One -->
-<section id="one">
+<!-- Main -->
+<div id="main">
+
+<!-- Two -->
+<section id="two" class="spotlights">
 	<section>
 		<a href="3d_printed_puzzle.html" class="image">
 			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="25% 25%" />
@@ -57,3 +60,5 @@ nav-menu: true
 		</div>
 	</section>
 </section>
+
+</div>
