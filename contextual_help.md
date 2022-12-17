@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: landing
 title: Contextual Help for Enterprise Applications
 landing-title: 'Contextual Help for Enterprise Applications'
 nav-menu: false
 description: null
-image: null
+image: assets/images/screen mockups.png
 author: null
 show_tile: false
 ---
