@@ -1,7 +1,7 @@
 ---
 title: Side Projects
 layout: landing
-description: Look at what I've made!
+description: to be filled
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
