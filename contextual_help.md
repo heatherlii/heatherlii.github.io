@@ -15,9 +15,9 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
-	     <header class="major">
+	     <!-- header class="major">
 		<h1>Contextual Help for Enterprise Applications</h1>
-	     </header>		
+	     </header -->		
 
 <h2>Overview</h2>
 <p>I worked directly with two Lead designers on the project, and my role was to create visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
