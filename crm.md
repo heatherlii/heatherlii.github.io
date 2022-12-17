@@ -1,9 +1,12 @@
 ---
-title: WSIB Employer Dashboard
-layout: landing
-description: 'maybe leave this bit blank?'
-image: assets/images/turtleonshape.jpg
+layout: page
+title: Product Design
+landing-title: 'Product Design'
 nav-menu: false
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
 <!-- Main -->
@@ -12,6 +15,9 @@ nav-menu: false
 <!-- One -->
 <section id="one">
 	<div class="inner">
+	     <header class="major">
+		<h1>WSIB Employer Dashboard</h1>
+	     </header>		
 		
 <!-- Shortcuts -->
 <ul class="actions">
