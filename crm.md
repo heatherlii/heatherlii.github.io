@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Product Design
+title: WSIB Employer Dashboard
 landing-title: 'Product Design'
 nav-menu: false
 description: null
