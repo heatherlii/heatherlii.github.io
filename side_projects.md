@@ -6,18 +6,11 @@ image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
-<!-- One 
+<!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>UI/UX Projects</h1>
-		</header>
-  </div>
-</section> -->
-
-<!-- Two -->
-<section id="two" class="spotlights">
-  <section>
+ 	</div>
+	<section>
 		<a href="3d_printed_puzzle.html" class="image">
 			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="25% 25%" />
 		</a>
@@ -49,7 +42,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-		<section>
+	<section>
 		<a href="other_designs.html" class="image">
 			<img src="{% link assets/images/bhm thumbnail.png %}" alt="" data-position="25% 25%" />
 		</a>
@@ -66,5 +59,3 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-</div>
