@@ -2,18 +2,18 @@
 title: Side Projects
 layout: landing
 description: Look at what I've made!
-image: assets/images/screen mockups.png
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
-<!-- One -->
+<!-- One 
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>UI/UX Projects</h1>
 		</header>
   </div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
