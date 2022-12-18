@@ -24,7 +24,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>WSIB Employer Dashboard (CRM Tool)</h3>
+					<h3>WSIB Employer Dashboard</h3>
 				</header>
 				<p>add a brief sentence here to explain what I worked on.</p>
 				<ul class="actions">
