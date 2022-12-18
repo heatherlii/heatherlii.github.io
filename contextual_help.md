@@ -33,7 +33,7 @@ show_tile: false
 	<p>One of our main goals was to ensure the feature would not be confused with the primary product that it was related to. As such, I was not required to strictly follow existing standards. However, I still needed to provide a design that could sit alongside the existing product design language with a strong level of cohesiveness.</p>
 	<p>We initially identified a few key screens that contained a variety of information types from standard content paragraphs to tables and callout information. I explored numerous rounds of iteration exploring colour, depth and content containers.</p>
 	<p>As we narrowed down the styling I also created interactive prototypes that showed the Help panel working and the navigation between various levels.</p>
-	<span class="image fit"><img src="{% link assets/images/screen mockups.jpg %}" alt="" /></span>
+	<span class="image fit"><img src="{% link assets/images/screen mockups.png %}" alt="" /></span>
 </section>
 		
 <!-- Next Steps -->
