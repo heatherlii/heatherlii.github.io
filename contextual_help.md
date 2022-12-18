@@ -4,7 +4,7 @@ title: Contextual Help for Enterprise Applications
 landing-title: 'Contextual Help for Enterprise Applications'
 nav-menu: false
 description: null
-image: assets/images/screen mockups.png
+image: assets/images/screen mockups.jpg
 author: null
 show_tile: false
 ---
@@ -14,10 +14,7 @@ show_tile: false
 	
 <!-- One -->
 <section id="one">
-	<div class="inner">
-	     <!-- header class="major">
-		<h1>Contextual Help for Enterprise Applications</h1>
-	     </header -->		
+	<div class="inner">	
 
 <h2>Overview</h2>
 <p>I worked directly with two Lead designers on the project, and my role was to create visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
@@ -45,3 +42,8 @@ show_tile: false
 <h2>Dark Mode Exploration</h2>
 <p>After finalizing the design for the standard panels, we were asked about the possibility of creating a set of 'dark mode versions'. Many users prefer dark mode, thus having congruent panels would help improve their user experience.</p>
 <span class="image fit"><img src="{% link assets/images/dark mode.png %}" alt="" /></span>
+
+</div>
+</section>
+
+</div>
