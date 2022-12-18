@@ -15,6 +15,16 @@ show_tile: false
 <!-- One -->
 <section id="one">
 	<div class="inner">	
+		
+<!-- Shortcuts -->
+<ul class="actions">
+	<li><a href="#Overview" class="button small scrolly">Overview</a></li>
+	<li><a href="#NextSteps" class="button small scrolly">Next Steps</a></li>
+	<li><a href="#EarlyIterations" class="button small scrolly">Early Iterations</a></li>
+	<li><a href="#TableIterations" class="button small scrolly">Tables</a></li>
+	<li><a href="#TipCards" class="button small scrolly">Tip Cards</a></li>
+	<li><a href="#DarkMode" class="button small scrolly">Dark Mode</a></li>
+</ul>
 
 <!-- Overview -->
 <section id="Overview">
@@ -27,7 +37,7 @@ show_tile: false
 </section>
 		
 <!-- Next Steps -->
-<section id="Next Steps">
+<section id="NextSteps">
 	<h3>What would I want to address or work on if I had more time</h3>
 	<p>If I had more time, I would continue to work on the responsiveness of the design. I can do so by creating mockups and prototypes of different screen types and sizes, and compare the wireframes and animations to verify for consistency. This process may also help identify any components and/or elements with limited responsiveness (e.g. tables).</p>
 </section>
