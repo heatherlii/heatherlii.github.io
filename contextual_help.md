@@ -36,8 +36,6 @@ show_tile: false
 	<p>As we narrowed down the styling I also created interactive prototypes that showed the Help panel working and the navigation between various levels.</p>
 	<span class="image fit"><img src="{% link assets/images/screen mockups.png %}" alt="" /></span>
 </section>
-
-<hr class="major"/>
 		
 <!-- Next Steps -->
 <section id="NextSteps">
