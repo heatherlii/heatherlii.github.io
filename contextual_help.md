@@ -25,6 +25,13 @@ show_tile: false
 	<li><a href="#DarkMode" class="button small scrolly">Dark Mode</a></li>
 </ul>
 
+<!-- General Info -->
+<blockquote> 
+	<p><b>Date:</b>Mar. 2022- Apr. 2022</p>
+	<p><b>Tools:</b>Figma</p>
+	<p><b>Designers:</b>------</p>
+</blockquote>
+
 <hr class="major"/>
 
 <!-- Overview -->
