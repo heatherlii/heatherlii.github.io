@@ -24,9 +24,9 @@ show_tile: false
 	<li><a href="#Overview" class="button small scrolly">Overview</a></li>
 	<li><a href="#ProjectGoals" class="button small scrolly">Goals</a></li>
 	<li><a href="#Research" class="button small scrolly">Research</a></li>
+	<li><a href="#Testing" class="button small scrolly">Testing</a></li>
 	<li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li>
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
-	<li><a href="#UserTesting" class="button small scrolly">User Testing</a></li>
 	<li><a href="#WhatsNext" class="button small scrolly">What's Next?</a></li>
 </ul>
 		
@@ -68,9 +68,41 @@ show_tile: false
 	<p>Following the job shadowing sessions, the designers performed a thematic analysis on the notes to identify any overlapping themes and/or pain points. No glaring pain points affecting each team's workflow were identified. However, areas of improvement in efficiency and service for employers were recognized and outlined in a slide deck.</p>
 	<h3>Data Grouping Workshop</h3>
 	<p>For the first two rounds of iterations, we focused on creating a dashboard with assisting features such as: notification bell, note analysis, pinned files. However, after further discussion and reflection on our progress with the Stakeholders, a new direction has been set to help accomplish what they “truly want”.</p>
-	<p>For the third and most recent iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, we felt that it would be best to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections. /p>
+	<p>For the third and most recent iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, we felt that it would be best to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections.</p>
 </section>
 		
+<hr class="major"/>
+		
+<!-- Testing -->
+<section id="Testing">
+	<h2>A/B Testing</h2>
+	<p><b>Purpose:</b> to gain feedback from other perspectives, and find a consolidated view on the screen's architecture/p>
+	<p>After completing multiple iterations and shifting direction, A/B testing was conducted within the Lab using Maze. To optimize the quality of feedback from participants, testing materials were separated into three different categories:</p>
+	<ol>
+		<li>Intra-section layout</li>
+		<li>Dashboard layout (i.e., inter-section)</li>
+		<li>Interactions & Animations</li>
+	</ol>
+<!--	<html>
+		<head>
+			<style>
+				#content {
+					width: 100%;
+					margin: auto;
+					height: 100%;
+					display: flex;
+					align-items: center;
+					}
+			</style>
+		</head>
+		<body>
+			<div id="content">
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FA%252FB-Testing-Prototypes%3Fscaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A288%26show-proto-sidebar%3D1%26node-id%3D1%253A288" allowfullscreen></iframe>
+			</div>
+		</body>
+	</html> -->
+</section>
+				
 <hr class="major"/>
 		
 <!-- Initial Explorations -->
@@ -94,47 +126,18 @@ show_tile: false
 	<h2>Design Iterations</h2>
 	<h3>Iteration 1.2</h3>
 	<p>write about the v2 of the first iteration here</p>
-	<p>explain mid-fis</p>
 	<p>+prototype</p>
 	<h3>Iteration 2</h3>
 	<p>write about the second iteration here (+ the change slight change direction)</p>
-	<p>explain mid-fis</p>
 	<p>+prototype</p>
-	<h3>Iteration 3.1</h3>
+	<h3>Iteration 3.1 (new direction)</h3>
 	<p>write about the third iteration here (complete change in direction)</p>
-	<p>explain the mid-fis</p>
 	<p>+prototype</p>
 	<h3>Iteration 3.2</h3>
 	<p>write about the additions (more/new sections)</p>
 	<p>+prototype</p>
 </section>
 	
-<hr class="major"/>
-	
-<!-- User Testing -->
-<section id="UserTesting">
-	<h2>User Testing with Maze.co</h2>
-	<p>write about testing here</p>
-<!--	<html>
-		<head>
-			<style>
-				#content {
-					width: 100%;
-					margin: auto;
-					height: 100%;
-					display: flex;
-					align-items: center;
-					}
-			</style>
-		</head>
-		<body>
-			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FA%252FB-Testing-Prototypes%3Fscaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A288%26show-proto-sidebar%3D1%26node-id%3D1%253A288" allowfullscreen></iframe>
-			</div>
-		</body>
-	</html> -->
-</section>
-				
 <hr class="major"/>
 		
 <!-- Takeawyas -->
