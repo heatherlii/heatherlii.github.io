@@ -63,14 +63,7 @@ show_tile: false
 <section id="Research">
 	<h2>Research</h2>
 	<h3>Job Shadowing with Stakeholders (User Interviews)</h3>
-	<p>Six job shadowing sessions were conducted with employees from the three divisions</p>
-	<p>i.e., Employer Services (ES), Wilkens Health & Safety Solutions (WHSS), and Compliance</p>
-	<p>During the job shadowing sessions, participants were asked to demonstrate and explain their roles, tools that they use, common tasks (user flows) that they perform.</p>
-	<p>The main purpose and goal of the sessions were to:</p>
-	<ul>
-		<li>better understand how teams interact with each other and employers</li>
-		<li>identify pain points and areas of improvement</li>
-	</ul>
+	<p>Six job shadowing sessions were conducted with employees from the three divisions i.e., Employer Services (ES), Wilkens Health & Safety Solutions (WHSS), and Compliance. During the job shadowing sessions, participants were asked to demonstrate and explain their roles, tools that they use, common tasks (user flows) that they perform. The main purpose and goal of the sessions were to: (i) better understand how teams interact with each other and employers, (ii) identify pain points and areas of improvement.</p>
 	<h3>Thematic Analysis of Findings</h3>
 	<p>Following the job shadowing sessions, the designers performed a thematic analysis on the notes to identify any overlapping themes and/or pain points. No glaring pain points affecting each team's workflow were identified. However, areas of improvement in efficiency and service for employers were recognized and outlined in a slide deck.</p>
 	<h3>Data Grouping Workshop</h3>
