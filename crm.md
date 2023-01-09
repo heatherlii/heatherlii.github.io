@@ -76,7 +76,7 @@ show_tile: false
 <!-- Testing -->
 <section id="Testing">
 	<h2>A/B Testing</h2>
-	<p><b>Purpose:</b> to gain feedback from other perspectives, and find a consolidated view on the screen's architecture/p>
+	<p><b>Purpose:</b> to gain feedback from other perspectives, and find a consolidated view on the screen's architecture</p>
 	<p>After completing multiple iterations and shifting direction, A/B testing was conducted within the Lab using Maze. To optimize the quality of feedback from participants, testing materials were separated into three different categories:</p>
 	<ol>
 		<li>Intra-section layout</li>
