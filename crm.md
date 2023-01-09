@@ -26,8 +26,8 @@ show_tile: false
 	<li><a href="#Research" class="button small scrolly">Research</a></li>
 	<li><a href="#Testing" class="button small scrolly">Testing</a></li>
 	<li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li>
+	<li><a href="#Final" class="button small scrolly">Solution</a></li>
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
-	<li><a href="#WhatsNext" class="button small scrolly">What's Next?</a></li>
 </ul>
 		
 <!-- General Info -->
@@ -118,6 +118,14 @@ show_tile: false
 	<h4>Mid-fi Mockups</h4>
 	<p>explain the mid-fis</p>
 </section>
+		
+<hr class="major"/>
+		
+<!-- Final -->
+<section id="Final">
+	<h2>Final Prototype</h2>
+	<p>show latest version here</p>
+</section>
 
 <hr class="major"/>
 	
@@ -136,14 +144,6 @@ show_tile: false
 	<h3>Iteration 3.2</h3>
 	<p>write about the additions (more/new sections)</p>
 	<p>+prototype</p>
-</section>
-	
-<hr class="major"/>
-		
-<!-- Takeawyas -->
-<section id="WhatsNext">
-	<h2>What's Next?</h2>
-	<p>write conclusion/takeaways here + what I would continue to work on if I had more time</p>
 </section>
 	
 </div>
