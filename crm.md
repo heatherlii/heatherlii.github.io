@@ -34,10 +34,8 @@ show_tile: false
 <blockquote> 
 	<p><b>Date:</b> Sept. 2022- Dec. 2022</p>
 	<p><b>Tools:</b> Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
-	<p><b>Designers:</b> -----</p>
-	<p><b>Developpers:</b> -----</p>
-	<p><b>Communications:</b> -----</p>
-	<p><b>Leads:</b> -----</p>
+	<p><b>Role:</b> UI/UX Designer</p>
+	<p><b>Team:</b> Worked in partnership with designers, developpers and communications coordinators</p>
 </blockquote>
 		
 <hr class="major"/>
@@ -45,7 +43,7 @@ show_tile: false
 <!-- Project Overview -->
 <section id="Overview">
 	<h2>Project Overview</h2>
-	<p>write about the project here</p>
+	<p>Currently, the Employer Services (ES) division includes three areas that support the employer customer experience: intake/payments, education, and compliance. The three areas do not have shared view of the employer, hence they must individually collect and store information. This could potentially lead to having unknown conflicting conversations, preventing a holistic view of the employer.</p>
 </section>
 		
 <hr class="major"/>
@@ -54,9 +52,9 @@ show_tile: false
 <section id="ProjectGoals">
 	<h2>Project Goals</h2>
 	<h3>Lab Goal</h3>
-	<p>write goal here</p>
+	<p>Help the ES team go through the Discovery phase of a project, so that they have a clear understanding of where they would like to focus their efforts moving forward.</p>
 	<h3>Stakeholder Goal</h3>
-	<p>write goal here</p>
+	<p>Explore how to create a Holistic 360 View of their customers that each team with the Employer Services space can leverage and be equally informed about each customer.</p>
 </section>
 		
 <hr class="major"/>
@@ -65,11 +63,19 @@ show_tile: false
 <section id="Research">
 	<h2>Research</h2>
 	<h3>Job Shadowing with Stakeholders (User Interviews)</h3>
-	<p>write about the job shadowing here</p>
+	<p>Six job shadowing sessions were conducted with employees from the three divisions</p>
+	<p>i.e., Employer Services (ES), Wilkens Health & Safety Solutions (WHSS), and Compliance</p>
+	<p>During the job shadowing sessions, participants were asked to demonstrate and explain their roles, tools that they use, common tasks (user flows) that they perform.</p>
+	<p>The main purpose and goal of the sessions were to:</p>
+	<ul>
+		<li>better understand how teams interact with each other and employers</li>
+		<li>identify pain points and areas of improvement</li>
+	</ul>
 	<h3>Thematic Analysis of Findings</h3>
-	<p>write about the thematic analysis here</p>
+	<p>Following the job shadowing sessions, the designers performed a thematic analysis on the notes to identify any overlapping themes and/or pain points. No glaring pain points affecting each team's workflow were identified. However, areas of improvement in efficiency and service for employers were recognized and outlined in a slide deck.</p>
 	<h3>Data Grouping Workshop</h3>
-	<p>write about the workshop here</p>
+	<p>For the first two rounds of iterations, we focused on creating a dashboard with assisting features such as: notification bell, note analysis, pinned files. However, after further discussion and reflection on our progress with the Stakeholders, a new direction has been set to help accomplish what they “truly want”.</p>
+	<p>For the third and most recent iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, we felt that it would be best to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections. /p>
 </section>
 		
 <hr class="major"/>
