@@ -25,7 +25,7 @@ show_tile: false
 	<li><a href="#ProjectGoals" class="button small scrolly">Goals</a></li>
 	<li><a href="#Research" class="button small scrolly">Research</a></li>
 	<li><a href="#Testing" class="button small scrolly">Testing</a></li>
-	<li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li>
+	<!-- <li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li> -->
 	<li><a href="#Final" class="button small scrolly">Solution</a></li>
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
 </ul>
@@ -33,7 +33,7 @@ show_tile: false
 <!-- General Info -->
 <blockquote> 
 	<p><b>Date:</b> Sept. 2022- Dec. 2022</p>
-	<p><b>Tools:</b> Figma, Maze.co, Slack, Dropbox, Google Meet, Zoom, Around</p>
+	<p><b>Tools:</b> Figma, Maze.co, Miro, Dropbox, Google Meet, Zoom, Slack, Around</p>
 	<p><b>Role:</b> UI/UX Designer</p>
 	<p><b>Team:</b> Worked in partnership with designers, developpers and communications coordinators</p>
 </blockquote>
@@ -76,8 +76,7 @@ show_tile: false
 <!-- Testing -->
 <section id="Testing">
 	<h2>A/B Testing</h2>
-	<p><b>Purpose:</b> to gain feedback from other perspectives, and find a consolidated view on the screen's architecture</p>
-	<p>After completing multiple iterations and shifting direction, A/B testing was conducted within the Lab using Maze. To optimize the quality of feedback from participants, testing materials were separated into three different categories:</p>
+	<p>After completing multiple iterations and shifting direction, A/B testing was conducted within the Lab to gain feedback from other perspectives, and find a consolidated view on the screen's architecture. To optimize the quality of feedback from participants, testing materials were separated into three different categories:</p>
 	<ol>
 		<li>Intra-section layout</li>
 		<li>Dashboard layout (i.e., inter-section)</li>
@@ -105,7 +104,7 @@ show_tile: false
 				
 <hr class="major"/>
 		
-<!-- Initial Explorations -->
+<!-- Initial Explorations 
 <section id="InitialExplorations">
 	<h2>Initial Explorations</h2>
 	<h3>Iteration 1.1</h3>
@@ -119,12 +118,13 @@ show_tile: false
 	<p>explain the mid-fis</p>
 </section>
 		
-<hr class="major"/>
+<hr class="major"/> -->
 		
 <!-- Final -->
 <section id="Final">
 	<h2>Final Prototype</h2>
-	<p>show latest version here</p>
+	<p>description</p>
+	<p>PROTOTYPE (user flow, dashboard auto-scroll, glossary auto-scroll)</p>
 </section>
 
 <hr class="major"/>
@@ -132,18 +132,17 @@ show_tile: false
 <!-- Design Iterations -->
 <section id="DesignIterations">
 	<h2>Design Iterations</h2>
-	<h3>Iteration 1.2</h3>
-	<p>write about the v2 of the first iteration here</p>
-	<p>+prototype</p>
-	<h3>Iteration 2</h3>
-	<p>write about the second iteration here (+ the change slight change direction)</p>
-	<p>+prototype</p>
-	<h3>Iteration 3.1 (new direction)</h3>
-	<p>write about the third iteration here (complete change in direction)</p>
-	<p>+prototype</p>
-	<h3>Iteration 3.2</h3>
-	<p>write about the additions (more/new sections)</p>
-	<p>+prototype</p>
+	<h3>Ideation + Lo-fis</h3>
+	<p>description</p>
+	<p>FIGMA + IMAGE</p>
+	<h3>Mid-fis</h3>
+	<p>description</p>
+	<p>IMAGES</p>
+	<h3>Hi-fis</h3>
+	<p>V1 description</p>
+	<p>PROTOTYPE</p>
+	<p>V2 description</p>
+	<p>PROTOTYPE</p>
 </section>
 	
 </div>
