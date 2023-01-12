@@ -156,6 +156,7 @@ show_tile: false
 			</div>
 		</body>
 	</html>
+	<p>desc</p>
 	<span class="image fit"><img src="{% link assets/images/crm_low-fi.png%}" alt="" /></span>
 	<h3>Mid-fis</h3>
 	<p>After reaching a consensus on the dashboard’s general architecture, visual elements such as placeholder text and simple iconography were added.</p>
