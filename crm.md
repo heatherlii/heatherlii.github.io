@@ -65,7 +65,7 @@ show_tile: false
 	<h3>Job Shadowing with Stakeholders (User Interviews)</h3>
 	<p>Six job shadowing sessions were conducted with employees from the three divisions i.e., Employer Services (ES), Wilkens Health & Safety Solutions (WHSS), and Compliance. During the job shadowing sessions, participants were asked to demonstrate and explain their roles, tools that they use, common tasks (user flows) that they perform. The main purpose and goal of the sessions were to: (i) better understand how teams interact with each other and employers, (ii) identify pain points and areas of improvement.</p>
 	<h3>Thematic Analysis of Findings</h3>
-	<p>Following the job shadowing sessions, the designers performed a thematic analysis on the notes to identify any overlapping themes and/or pain points. No glaring pain points affecting each team's workflow were identified. However, areas of improvement in efficiency and service for employers were recognized and outlined in a slide deck.</p>
+	<p>Following the job shadowing sessions, the designers performed a thematic analysis on the notes to identify any overlapping themes and/or pain points. No glaring pain points affecting each team's workflow were identified. However, areas of improvement in efficiency and service for employers were recognized and outlined in a <a href="https://drive.google.com/file/d/1Cyo-0phyPcAPIVhhTghbhtSqiv2bampT/view">slide deck</a>.</p>
 	<h3>Data Grouping Workshop</h3>
 	<p>For the first two rounds of iterations, we focused on creating a dashboard with assisting features such as: notification bell, note analysis, pinned files. However, after further discussion and reflection on our progress with the Stakeholders, a new direction has been set to help accomplish what they “truly want”.</p>
 	<p>For the third and most recent iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, we felt that it would be best to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections.</p>
@@ -128,6 +128,24 @@ show_tile: false
 		<p><b><i>*Note*</i></b> Ideally, users will be able to leverage the ‘auto-scroll’ shortcuts and the manual scroll. Hence, additional prototypes of the <i>dashboard</i> and <i>glossary</i> have been included below to demonstrate how a user can leverage the tabs/shortcuts.</p>
 	</blockquote>
 	<p>PROTOTYPE (user flow, dashboard auto-scroll, glossary auto-scroll)</p>
+	<html>
+		<head>
+			<style>
+				#content {
+					width: 100%;
+					margin: auto;
+					height: 100%;
+					display: flex;
+					align-items: center;
+					}
+			</style>
+		</head>
+		<body>
+			<div id="content">
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D71%253A5802%26scaling%3Dscale-down%26page-id%3D71%253A5076%26starting-point-node-id%3D71%253A5802%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+			</div>
+		</body>
+	</html>
 </section>
 
 <hr class="major"/>
@@ -137,15 +155,75 @@ show_tile: false
 	<h2>Design Iterations</h2>
 	<h3>Ideation + Lo-fis</h3>
 	<p>Following the thematic analysis, we began to individually visualize the features and their hierarchy on the dashboard.</p>
-	<p>FIGMA + IMAGE</p>
+	<div class="row">
+		<div class="6u 12u$(small)">
+			<html>
+				<head>
+					<style>
+						#content {
+							width: 100%;
+							margin: auto;
+							height: 100%;
+							display: flex;
+							align-items: center;
+							}
+					</style>
+				</head>
+				<body>
+					<div id="content">
+						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
+					</div>
+				</body>
+			</html>
+		</div>
+		<div class="6u 12u$(small)">
+			<span class="image fit"><img src="{% link assets/images/crm_low-fi.jpg%}" alt="" /></span>
+		</div>
+	</div>
 	<h3>Mid-fis</h3>
 	<p>After reaching a consensus on the dashboard’s general architecture, visual elements such as placeholder text and simple iconography were added.</p>
-	<p>IMAGES</p>
+	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.jpg%}" alt="" /></span>
 	<h3>Hi-fis</h3>
 	<p>V1 description</p>
 	<p>PROTOTYPE</p>
+	<!--	<html>
+		<head>
+			<style>
+				#content {
+					width: 100%;
+					margin: auto;
+					height: 100%;
+					display: flex;
+					align-items: center;
+					}
+			</style>
+		</head>
+		<body>
+			<div id="content">
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FA%252FB-Testing-Prototypes%3Fscaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A288%26show-proto-sidebar%3D1%26node-id%3D1%253A288" allowfullscreen></iframe>
+			</div>
+		</body>
+	</html> -->
 	<p>V2 description</p>
 	<p>PROTOTYPE</p>
+	<!--	<html>
+		<head>
+			<style>
+				#content {
+					width: 100%;
+					margin: auto;
+					height: 100%;
+					display: flex;
+					align-items: center;
+					}
+			</style>
+		</head>
+		<body>
+			<div id="content">
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FA%252FB-Testing-Prototypes%3Fscaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A288%26show-proto-sidebar%3D1%26node-id%3D1%253A288" allowfullscreen></iframe>
+			</div>
+		</body>
+	</html> -->
 </section>
 	
 </div>
