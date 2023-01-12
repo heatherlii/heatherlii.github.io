@@ -124,6 +124,9 @@ show_tile: false
 <section id="Final">
 	<h2>Final Prototype</h2>
 	<p>description</p>
+	<blockquote>
+		<p><b><i>*Note*</i></b> Ideally, users will be able to leverage the ‘auto-scroll’ shortcuts and the manual scroll. Hence, additional prototypes of the <i>dashboard</i> and <i>glossary</i> have been included below to demonstrate how a user can leverage the tabs/shortcuts.</p>
+	</blockquote>
 	<p>PROTOTYPE (user flow, dashboard auto-scroll, glossary auto-scroll)</p>
 </section>
 
@@ -133,10 +136,10 @@ show_tile: false
 <section id="DesignIterations">
 	<h2>Design Iterations</h2>
 	<h3>Ideation + Lo-fis</h3>
-	<p>description</p>
+	<p>Following the thematic analysis, we began to individually visualize the features and their hierarchy on the dashboard.</p>
 	<p>FIGMA + IMAGE</p>
 	<h3>Mid-fis</h3>
-	<p>description</p>
+	<p>After reaching a consensus on the dashboard’s general architecture, visual elements such as placeholder text and simple iconography were added.</p>
 	<p>IMAGES</p>
 	<h3>Hi-fis</h3>
 	<p>V1 description</p>
