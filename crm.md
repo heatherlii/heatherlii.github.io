@@ -103,23 +103,7 @@ show_tile: false
 </section>
 				
 <hr class="major"/>
-		
-<!-- Initial Explorations 
-<section id="InitialExplorations">
-	<h2>Initial Explorations</h2>
-	<h3>Iteration 1.1</h3>
-	<p>write about v1 of the first iteration here</p>
-	<h4>Sketches</h4>
-	<p>explain the initial ideation process</p>
-	<p>+ showcase some sketches</p>
-	<h4>Lo-fi Mockups</h4>
-	<p>explain the wireframes/lo-fis</p>
-	<h4>Mid-fi Mockups</h4>
-	<p>explain the mid-fis</p>
-</section>
-		
-<hr class="major"/> -->
-		
+
 <!-- Final -->
 <section id="Final">
 	<h2>Final Prototype</h2>
@@ -171,7 +155,7 @@ show_tile: false
 				</head>
 				<body>
 					<div id="content">
-						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
+						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="fit" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
 					</div>
 				</body>
 			</html>
