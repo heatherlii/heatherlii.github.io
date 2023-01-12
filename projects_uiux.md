@@ -19,7 +19,7 @@ nav-menu: true
 <section id="two" class="spotlights">
   <section>
     <a href="crm.html" class="image">
-			<img src="{% link assets/images/Dashboard.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/crm_thumbnail.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -35,7 +35,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="contextual_help.html" class="image">
-			<img src="{% link assets/images/help thumb.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/help_thumbnail.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
