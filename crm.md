@@ -162,7 +162,6 @@ show_tile: false
 	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
 	<h3>Hi-fis</h3>
 	<p>V1 description</p>
-	<p>PROTOTYPE</p>
 	<html>
 		<head>
 			<style>
@@ -177,12 +176,11 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A3083%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A3083" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A3083%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A3083" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
 	<p>V2 description</p>
-	<p>PROTOTYPE</p>
 	<html>
 		<head>
 			<style>
@@ -197,7 +195,7 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A1639%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A1639" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A1639%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A1639" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
