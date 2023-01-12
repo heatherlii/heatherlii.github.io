@@ -4,7 +4,7 @@ title: WSIB Employer Dashboard
 landing-title: 'WSIB Employer Dashboard'
 nav-menu: false
 description: null
-image: assets/images/turtleonshape.jpg
+image: assets/images/crm_landing.jpg
 author: null
 show_tile: false
 ---
@@ -180,6 +180,7 @@ show_tile: false
 			</div>
 		</body>
 	</html>
+	<p> </p>
 	<p>V2 description</p>
 	<html>
 		<head>
