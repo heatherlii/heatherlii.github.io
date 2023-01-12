@@ -1,7 +1,7 @@
 ---
 title: Side Projects
 layout: landing
-description: 'to be filled'
+description: 'other design projects I have took part in!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
