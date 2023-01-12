@@ -78,11 +78,11 @@ show_tile: false
 	<h2>A/B Testing</h2>
 	<p>After completing multiple iterations and shifting direction, A/B testing was conducted within the Lab to gain feedback from other perspectives, and find a consolidated view on the screen's architecture. To optimize the quality of feedback from participants, testing materials were separated into three different categories:</p>
 	<ol>
-		<li>Intra-section layout</li>
-		<li>Dashboard layout (i.e., inter-section)</li>
-		<li>Interactions & Animations</li>
+		<li><a href="https://app.maze.co/report/1-Sections-Layout/3wfr9hlagvp9o0/intro">Intra-section layout</a></li>
+		<li><a href="https://app.maze.co/report/2-Dashboard-Layout/3t64lktjlagvqbll/intro">Dashboard layout (i.e., inter-section layout)</a></li>
+		<li><a href="https://app.maze.co/report/3-Interactions-and-Transitions/3wfr9hlagvqp53/intro">Interactions & Animations</a></li>
 	</ol>
-<!--	<html>
+	<html>
 		<head>
 			<style>
 				#content {
@@ -96,10 +96,10 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FA%252FB-Testing-Prototypes%3Fscaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A288%26show-proto-sidebar%3D1%26node-id%3D1%253A288" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D218%253A3234%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D218%253A3234%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 			</div>
 		</body>
-	</html> -->
+	</html>
 </section>
 				
 <hr class="major"/>
@@ -152,12 +152,12 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="400" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
 	<p>desc</p>
-	<span class="image fit"><img src="{% link assets/images/crm_low-fi.png%}" alt="" /></span>
+	<span class="image fit"><img src="{% link assets/images/crm_lo-fi.png%}" alt="" /></span>
 	<h3>Mid-fis</h3>
 	<p>After reaching a consensus on the dashboard’s general architecture, visual elements such as placeholder text and simple iconography were added.</p>
 	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
