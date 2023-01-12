@@ -1,7 +1,7 @@
 ---
 title: Work
 layout: landing
-description: 'to be filled'
+description: ''
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
