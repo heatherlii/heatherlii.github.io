@@ -1,7 +1,7 @@
 ---
 title: Work
 layout: landing
-description: ''
+description: 'ui/ux projects from work experiences'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
