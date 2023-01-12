@@ -29,7 +29,6 @@ show_tile: false
 <blockquote> 
 	<p><b>Date:</b> Feb. 2022- Apr. 2022</p>
 	<p><b>Tools:</b> Figma</p>
-	<p><b>Designers:</b> ------</p>
 </blockquote>
 
 <hr class="major"/>
