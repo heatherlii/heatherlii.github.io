@@ -111,7 +111,6 @@ show_tile: false
 	<blockquote>
 		<p><b><i>*Note*</i></b> Ideally, users will be able to leverage the ‘auto-scroll’ shortcuts and the manual scroll. Hence, additional prototypes of the <i>dashboard</i> and <i>glossary</i> have been included below to demonstrate how a user can leverage the tabs/shortcuts.</p>
 	</blockquote>
-	<p>PROTOTYPE (user flow, dashboard auto-scroll, glossary auto-scroll)</p>
 	<html>
 		<head>
 			<style>
