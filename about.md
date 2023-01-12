@@ -22,5 +22,3 @@ nav-menu: true
 	<p>When I am not learning or designing, you will probably find me dancing, choreographing/teaching, or listening to music.</p>
 	<p>ANCORA IMPARO.</p>
 </blockquote>
-</section>
-</div>
