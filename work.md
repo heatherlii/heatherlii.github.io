@@ -1,5 +1,5 @@
 ---
-title: UI/UX Projects
+title: Work
 layout: landing
 description: 'to be filled'
 image: assets/images/pic07.jpg
