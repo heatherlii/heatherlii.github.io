@@ -155,7 +155,7 @@ show_tile: false
 				</head>
 				<body>
 					<div id="content">
-						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="200" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
+						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
 					</div>
 				</body>
 			</html>
