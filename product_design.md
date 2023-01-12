@@ -19,6 +19,13 @@ show_tile: false
 		<h1>Product Design</h1>
 	     </header>		
 		
+<!-- Shortcuts -->
+<ul class="actions">
+	<li><a href="#merch" class="button small scrolly">Clothing merchandise</a></li>
+	<li><a href="#laser" class="button small scrolly">Laser engravings</a></li>
+</ul>
+		
+<section id="merch">
 <h2>Clothing merchandise</h2>
 <h3>Final product</h3>
 <p>As a member of the Arts Unionville Dance Porgram in high school, I designed logos and promotional posters. I consulted with other students, who are potential buyers, for their needs and desires in terms of colour schemes, themes, product types, and price ranges. After the designs were finalized and approved, the posters were advertised to the department's (currently) 577 instagram followers. We were able to sell 50 clothing items and make over $200 profit.</p>
@@ -45,9 +52,10 @@ show_tile: false
 </div>
 <span class="image fit"><img src="{% link assets/images/more clothes.png %}" alt="" /></span>
 
-<hr class="major"/>		
+<hr class="major"/>
 
-<h2>Keychains</h2>	
+<section id="laser">
+<h2>Laser engraved pieces</h2>	
 <p>These laser engraved pieces were created for Communications (technology and visualization) courses. Adobe Illustrator and SolveSpace, respectively, were used to create the design and svg files.</p>
 <span class="image fit"><img src="{% link assets/images/keychains.png %}" alt="" /></span>
 <span class="image fit"><img src="{% link assets/images/keychain sketches.png %}" alt="" /></span>
