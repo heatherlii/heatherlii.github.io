@@ -138,31 +138,25 @@ show_tile: false
 	<h2>Design Iterations</h2>
 	<h3>Ideation + Lo-fis</h3>
 	<p>Following the thematic analysis, we began to individually visualize the features and their hierarchy on the dashboard.</p>
-	<div class="row">
-		<div class="6u 12u$(small)">
-			<html>
-				<head>
-					<style>
-						#content {
-							width: 100%;
-							margin: auto;
-							height: 100%;
-							display: flex;
-							align-items: center;
-							}
-					</style>
-				</head>
-				<body>
-					<div id="content">
-						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="400" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
-					</div>
-				</body>
-			</html>
-		</div>
-		<div class="6u 12u$(small)">
-			<span class="image fit"><img src="{% link assets/images/crm_low-fi.png%}" alt="" /></span>
-		</div>
-	</div>
+	<html>
+		<head>
+			<style>
+				#content {
+					width: 100%;
+					margin: auto;
+					height: 100%;
+					display: flex;
+					align-items: center;
+					}
+			</style>
+		</head>
+		<body>
+			<div id="content">
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="400" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
+			</div>
+		</body>
+	</html>
+	<span class="image fit"><img src="{% link assets/images/crm_low-fi.png%}" alt="" /></span>
 	<h3>Mid-fis</h3>
 	<p>After reaching a consensus on the dashboard’s general architecture, visual elements such as placeholder text and simple iconography were added.</p>
 	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
