@@ -96,7 +96,7 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D218%253A3234%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D218%253A3234%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="80%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D218%253A3234%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D218%253A3234%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
@@ -125,7 +125,7 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D71%253A5802%26scaling%3Dscale-down%26page-id%3D71%253A5076%26starting-point-node-id%3D71%253A5802%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="80%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D71%253A5802%26scaling%3Dscale-down%26page-id%3D71%253A5076%26starting-point-node-id%3D71%253A5802%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
@@ -152,7 +152,7 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="80%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D35%253A13806%26t%3DBcwkTK3ggUyOJMoN-1" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
@@ -176,7 +176,7 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A3083%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A3083" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="80%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A3083%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A3083" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
@@ -195,7 +195,7 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A1639%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A1639" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="80%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A1639%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A1639" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
