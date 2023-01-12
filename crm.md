@@ -177,12 +177,12 @@ show_tile: false
 			</html>
 		</div>
 		<div class="6u 12u$(small)">
-			<span class="image fit"><img src="{% link assets/images/crm_low-fi.jpg%}" alt="" /></span>
+			<span class="image fit"><img src="{% link assets/images/crm_low-fi.png%}" alt="" /></span>
 		</div>
 	</div>
 	<h3>Mid-fis</h3>
 	<p>After reaching a consensus on the dashboard’s general architecture, visual elements such as placeholder text and simple iconography were added.</p>
-	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.jpg%}" alt="" /></span>
+	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
 	<h3>Hi-fis</h3>
 	<p>V1 description</p>
 	<p>PROTOTYPE</p>
