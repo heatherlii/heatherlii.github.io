@@ -26,7 +26,7 @@ nav-menu: true
 				<header class="major">
 					<h3>WSIB Employer Dashboard</h3>
 				</header>
-				<p>add a brief sentence here to explain what I worked on.</p>
+				<p>Developed a POC for a CRM dashboard that provides a 360 Holistic view of employers.</p>
 				<ul class="actions">
 					<li><a href="crm.html" class="button">Learn more</a></li>
 				</ul>
@@ -42,7 +42,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Contextual Help for Enterprise Applications</h3>
 				</header>
-				<p>For this project, I worked on creating the visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
+				<p>Created a visual direction for a new feature that would provide Help information that is contextual to the content of the current page.</p>
 				<ul class="actions">
 					<li><a href="contextual_help.html" class="button">Learn more</a></li>
 				</ul>
@@ -58,7 +58,7 @@ nav-menu: true
 				<header class="major">
 					<h3>User Experience Design System</h3>
 				</header>
-				<p>During my internship at OpenText, I worked on their User Experience Design System which supports 100+ prodcuts across 12 product units, reporting directly to the Lead Designer.</p>
+				<p>Updated and refined the component library by creating new interactive components, following the most recent specifications.</p>
 				<ul class="actions">
 					<li><a href="design_system.html" class="button">Learn more</a></li>
 				</ul>
