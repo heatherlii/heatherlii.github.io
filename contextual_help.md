@@ -4,7 +4,7 @@ title: Contextual Help for Enterprise Applications
 landing-title: 'Contextual Help for Enterprise Applications'
 nav-menu: false
 description: null
-image: assets/images/help_single_mockup.jpg
+image: assets/images/help_landing.jpg
 author: null
 show_tile: false
 ---
