@@ -19,14 +19,14 @@ nav-menu: true
 <section id="two" class="spotlights">
   <section>
     <a href="crm.html" class="image">
-			<img src="{% link assets/images/crm_thumbnail_1.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/crm_thumbnail.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>WSIB Employer Dashboard</h3>
 				</header>
-				<p>Developed a POC for a CRM dashboard that provides a 360 Holistic view of employers.</p>
+				<p>Developed a Proof of Concept (POC) for a CRM dashboard that provides a 360 Holistic view of employers.</p>
 				<ul class="actions">
 					<li><a href="crm.html" class="button">Learn more</a></li>
 				</ul>
@@ -35,7 +35,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="contextual_help.html" class="image">
-			<img src="{% link assets/images/help_thumbnail_1.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/help_thumbnail.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
