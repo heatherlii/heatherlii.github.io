@@ -16,7 +16,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 	     <header class="major">
-		<h1>3-d Printed Puzzle</h1>
+		<h2>3-d Printed Puzzle</h2>
 	     </header>
 
 <h2>Overview</h2>
