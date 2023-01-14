@@ -17,11 +17,12 @@ show_tile: false
 		</header>
 
 <!-- Text -->
-
-<p><b>Thanks for visiting!</b> I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX.</p>
-<p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
-<p>If you are interested in my work, don't hesitate to reach out!</p>
-<p>ANCORA IMPARO.</p>
+<blockquote>
+	<p><b>Thanks for visiting!</b> I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX.</p>
+	<p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
+	<p>If you are interested in my work, don't hesitate to reach out!</p>
+	<p>ANCORA IMPARO.</p>
+</blockquote>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>I like</h3>
