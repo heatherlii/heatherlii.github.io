@@ -24,10 +24,7 @@ show_tile: false
 		<p>If you are interested in my work, don't hesitate to reach out!</p>
 		<p>ANCORA IMPARO.</p>
 	</div>
-	<div class="4u 12u$(medium)">
-		<p> </p>
-	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(small)">
 		<h3>I like</h3>
 		<blockquote>
 			<p>Curating playlists</p>
