@@ -13,7 +13,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		
-<h3>Tools & Skills</h3>
+<h1>Tools & Skills</h1>
 
 <!-- Shortcuts -->
 <ul class="actions">
