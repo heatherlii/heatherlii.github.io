@@ -159,7 +159,7 @@ show_tile: false
 	<h3>Mid-fis</h3>
 	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
 	<h3>Hi-fis</h3>
-	<span class="image fit">< src="{% link assets/images/crm_hi-fi-desc.png%}" alt="" /></span>
+	<span class="image fit"><img src="{% link assets/images/crm_hi-fi-desc.png%}" alt="" /></span>
 	<div class="row">
 		<div class="6u 12u$(small)">
 			<p>hi-fi v1</p>
