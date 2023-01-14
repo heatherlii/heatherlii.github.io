@@ -3,7 +3,7 @@ layout: page
 title: About
 image: assets/images/about.jpg
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 
 <!-- Main -->
