@@ -18,7 +18,9 @@ show_tile: false
 
 <!-- Text -->
 <blockquote>
-	<p><b>Thanks for visiting!</b> I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX. Things I love to do include "endlessly" iterate designs and play around with new ideas/tools. I believe my passion for creating and making things stems from my early exposure to the music and dance communities. When I am not learning or designing, you can probably find me curating a new playlist, practicing calligraphy, or at the studio choreographing/teaching.</p>
+	<p><b>Thanks for visiting!</b></p>
+	<p> </p>
+	<p>I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX. Things I love to do include "endlessly" iterate designs and play around with new ideas/tools. I believe my passion for creating and making things stems from my early exposure to the music and dance communities. When I am not learning or designing, you can probably find me curating a new playlist, practicing calligraphy, or at the studio choreographing/teaching.</p>
 	<p>If you are interested in my work, don't hesitate to reach out!</p>
 	<p>–</p>
 	<p><b>ANCORA IMPARO.</b></p>
