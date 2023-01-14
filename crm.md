@@ -157,19 +157,18 @@ show_tile: false
 	<span class="image fit"><img src="{% link assets/images/crm_lo-fi.png%}" alt="" /></span>
 	<h3>Mid-fis</h3>
 	<div class="row">
-		<div class="6u 12u$">
+		<div class="6u 12u$(small)">
 			<h4>mid-fi v1</h4>
 			<p>The first iteration of the dashboard is a rough visualization that combines our sketches and the finalized architecture.</p>
 			<span class="image fit"><img src="{% link assets/images/crm_mid-fi_v1.png%}" alt="" /></span>
 		</div>
-		<div class="6u 12u$">
+		<div class="6u 12u$(small)">
 			<h4>mid-fi v2</h4>
 			<p>After receiving feedback, we expanded the widgets and added tabs to organize the features for a cleaner appearance.</p>
 			<span class="image fit"><img src="{% link assets/images/crm_mid-fi_v2.png%}" alt="" /></span>
 		</div>
 	</div>
 	<h3>Hi-fis</h3>
-	<span class="image fit"><img src="{% link assets/images/crm_hi-fi_desc.png%}" alt="" /></span>
 	<div class="row">
 		<div class="6u 12u$(small)">
 			<h4>hi-fi v1</h4>
