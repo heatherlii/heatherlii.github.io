@@ -13,7 +13,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Hey there ( ・_・)ノ</h1>
+			<h1>Hey there   ( ´ ▽ ` )ﾉ   </h1>
 		</header>
 
 <!-- Text -->
@@ -23,6 +23,8 @@ show_tile: false
 		<p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
 		<p>If you are interested in my work, don't hesitate to reach out!</p>
 		<p>ANCORA IMPARO.</p>
+	</div>
+	<div class="4u 12u$(medium)">
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>I like ♡</h3>
