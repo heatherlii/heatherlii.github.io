@@ -22,7 +22,7 @@ show_tile: false
 <p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
 <p>If you are interested in my work, don't hesitate to reach out!</p>
 <p>ANCORA IMPARO.</p>
-<div class="6u 12u$(small)">
+<div class="row">
 	<div class="6u 12u$(small)">
 		<h3>I like</h3>
 		<blockquote>
