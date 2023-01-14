@@ -17,13 +17,12 @@ show_tile: false
 		</header>
 
 <!-- Text -->
-<div class="row">
-	<div class="6u 12u$(small)">
-		<p><b>Thanks for visiting!</b> I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX.</p>
-		<p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
-		<p>If you are interested in my work, don't hesitate to reach out!</p>
-		<p>ANCORA IMPARO.</p>
-	</div>
+
+<p><b>Thanks for visiting!</b> I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX.</p>
+<p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
+<p>If you are interested in my work, don't hesitate to reach out!</p>
+<p>ANCORA IMPARO.</p>
+<div class="6u 12u$(small)">
 	<div class="6u 12u$(small)">
 		<h3>I like</h3>
 		<blockquote>
@@ -31,6 +30,8 @@ show_tile: false
 			<p>Video & Music editing</p>
 			<p>Boba</p>
 		</blockquote>
+	</div>
+	<div class="6u 12u$(small)">
 		<h3>I am learning</h3>
 		<blockquote>
 			<p>Calligraphy</p>
