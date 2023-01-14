@@ -16,7 +16,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 	     <header class="major">
-		<h1>User Experience Design System</h1>
+		<h2>User Experience Design System</h2>
 	     </header>		
 		
 <p>During my internship at OpenText, I worked on their User Experience Design System which supports 100+ prodcuts across 12 product units, reporting directly to the Lead Designer. Using Figma and Web Site Management I created guidelines and designed specifications for various components and elements in the UX Design System to ensure consistency across multiple products.</p>
