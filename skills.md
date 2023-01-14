@@ -1,8 +1,8 @@
 ---
 title: Skills
 layout: landing
-description: 'Tools and skills I can leverage'
-image: assets/images/turtleonshape.jpg
+description: ''
+image: assets/images/skills_sketch.jpg
 nav-menu: true
 ---
 
