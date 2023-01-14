@@ -16,7 +16,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 	     <header class="major">
-		<h1>Other Designs</h1>
+		<h2>Other Designs</h2>
 	     </header>	
 		
 <!-- Shortcuts -->
