@@ -23,7 +23,7 @@ show_tile: false
 	<p>If you are interested in my work, don't hesitate to reach out!</p>
 	<p>ANCORA IMPARO.</p>
 </blockquote>
-<div class="row">
+<!-- <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>I like</h3>
 		<blockquote>
@@ -40,4 +40,4 @@ show_tile: false
 			<p>Korean (한국어)</p>
 		</blockquote>
 	</div>
-</div>
+</div> -->
