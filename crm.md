@@ -44,7 +44,8 @@ show_tile: false
 	<p>Currently, the Employer Services (ES) division includes three areas that support the employer customer experience: intake/payments, education, and compliance. The three areas do not have shared view of the employer, hence they must individually collect and store information. This could potentially lead to having unknown conflicting conversations, preventing a holistic view of the employer.</p>
 </section>
 		
-		
+<h2> </h2>
+
 <!-- Project Goals -->
 <section id="ProjectGoals">
 	<h2>Project Goals</h2>
@@ -54,6 +55,7 @@ show_tile: false
 	<p>Explore how to create a Holistic 360 View of their customers that each team with the Employer Services space can leverage and be equally informed about each customer.</p>
 </section>
 		
+<h2> </h2>
 
 <!-- Initial Research -->
 <section id="Research">
@@ -67,6 +69,7 @@ show_tile: false
 	<p>In the latest iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, it would be optimal to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections.</p>
 </section>
 		
+<h2> </h2>
 		
 <!-- Testing -->
 <section id="Testing">
@@ -96,7 +99,8 @@ show_tile: false
 		</body>
 	</html>
 </section>
-		
+	
+<h2> </h2>
 
 <!-- Final -->
 <section id="Final">
@@ -126,6 +130,7 @@ show_tile: false
 	</html>
 </section>
 
+<h2> </h2>
 	
 <!-- Design Iterations -->
 <section id="DesignIterations">
@@ -154,43 +159,51 @@ show_tile: false
 	<h3>Mid-fis</h3>
 	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
 	<h3>Hi-fis</h3>
-	<html>
-		<head>
-			<style>
-				#content {
-					width: 100%;
-					margin: auto;
-					height: 100%;
-					display: flex;
-					align-items: center;
-					}
-			</style>
-		</head>
-		<body>
-			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A3083%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A3083" allowfullscreen></iframe>
-			</div>
-		</body>
-	</html>
-	<p> </p>
-	<html>
-		<head>
-			<style>
-				#content {
-					width: 100%;
-					margin: auto;
-					height: 100%;
-					display: flex;
-					align-items: center;
-					}
-			</style>
-		</head>
-		<body>
-			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A1639%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A1639" allowfullscreen></iframe>
-			</div>
-		</body>
-	</html>
+	<div class="row">
+		<div class="6u 12u$(small)">
+			<p>hi-fi v1</p>
+			<html>
+				<head>
+					<style>
+						#content {
+							width: 100%;
+							margin: auto;
+							height: 100%;
+							display: flex;
+							align-items: center;
+							}
+					</style>
+				</head>
+				<body>
+					<div id="content">
+						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A3083%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A3083" allowfullscreen></iframe>
+					</div>
+				</body>
+			</html>
+		</div>
+		<p> </p>
+		<div class="6u 12u$(small)">
+			<p>hi-fi v2</p>
+			<html>
+				<head>
+					<style>
+						#content {
+							width: 100%;
+							margin: auto;
+							height: 100%;
+							display: flex;
+							align-items: center;
+							}
+					</style>
+				</head>
+				<body>
+					<div id="content">
+						<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FrfmX7pHDcCiRsORCA4yHAN%2FWSIB-Employer-Dashboard%3Fnode-id%3D70%253A1639%26scaling%3Dscale-down%26page-id%3D70%253A1317%26starting-point-node-id%3D70%253A1639" allowfullscreen></iframe>
+					</div>
+				</body>
+			</html>
+		</div>
+	</div>
 </section>
 	
 </div>
