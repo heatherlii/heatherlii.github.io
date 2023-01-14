@@ -88,5 +88,5 @@ show_tile: false
 	<p>Sketch and low fidelity prototype of a wheelchair for a Design course project.</p>
 	<span class="image fit"><img src="{% link assets/images/tsts.png %}" alt="" /></span>
 	<p>Other fun doodles.</p>
-</section
+</section>
 <span class="image fit"><img src="{% link assets/images/doodles.png %}" alt="" /></span>
