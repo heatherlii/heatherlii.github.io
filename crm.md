@@ -136,7 +136,7 @@ show_tile: false
 <section id="DesignIterations">
 	<h2>Design Iterations</h2>
 	<h3>Ideation + Lo-fis</h3>
-	<p>Following the thematic analysis, we began to individually visualize the features and their hierarchy on the dashboard.</p>
+	<p>Following the thematic analysis, we began to individually visualize the features and their hierarchy on the dashboard. Only the features which the stakeholders label as "prioritzed features" were included in the dashboard.</p>
 	<html>
 		<head>
 			<style>
@@ -159,6 +159,7 @@ show_tile: false
 	<h3>Mid-fis</h3>
 	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
 	<h3>Hi-fis</h3>
+	<span class="image fit">< src="{% link assets/images/crm_hi-fi-desc.png%}" alt="" /></span>
 	<div class="row">
 		<div class="6u 12u$(small)">
 			<p>hi-fi v1</p>
