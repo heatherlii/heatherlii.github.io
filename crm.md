@@ -105,7 +105,6 @@ show_tile: false
 <!-- Final -->
 <section id="Final">
 	<h2>Final Prototype</h2>
-	<p>description</p>
 	<blockquote>
 		<p><b><i>*Note*</i></b> Ideally, users will be able to leverage the ‘auto-scroll’ shortcuts and the manual scroll.</p>
 		<p>Additional prototypes of the <i>dashboard</i> and <i>glossary</i> are also included below to demonstrate how a user can leverage the tabs/shortcuts.</p>
