@@ -162,7 +162,6 @@ show_tile: false
 	<span class="image fit"><img src="{% link assets/images/crm_hi-fi-desc.png%}" alt="" /></span>
 	<div class="row">
 		<div class="6u 12u$(small)">
-			<p>hi-fi v1</p>
 			<html>
 				<head>
 					<style>
@@ -183,7 +182,6 @@ show_tile: false
 			</html>
 		</div>
 		<div class="6u 12u$(small)">
-			<p>hi-fi v2</p>
 			<html>
 				<head>
 					<style>
