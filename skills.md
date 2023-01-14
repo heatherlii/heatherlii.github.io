@@ -2,7 +2,7 @@
 title: Skills
 layout: landing
 description: ''
-image: assets/images/skills_sketches.jpg
+image: assets/images/skills_sketches_black.jpg
 nav-menu: true
 ---
 
