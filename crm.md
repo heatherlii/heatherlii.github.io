@@ -166,6 +166,8 @@ show_tile: false
 			<h4>mid-fi v2</h4>
 			<p>After receiving feedback, we expanded the widgets and added tabs to organize the features for a cleaner appearance.</p>
 			<span class="image fit"><img src="{% link assets/images/crm_mid-fi_v2.png%}" alt="" /></span>
+		</div>
+	</div>
 	<h3>Hi-fis</h3>
 	<span class="image fit"><img src="{% link assets/images/crm_hi-fi_desc.png%}" alt="" /></span>
 	<div class="row">
