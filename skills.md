@@ -4,6 +4,7 @@ layout: landing
 description: ''
 image: assets/images/skills_sketches_black.jpg
 nav-menu: true
+show_tile: false
 ---
 
 <!-- Main -->
