@@ -1,8 +1,8 @@
 ---
 title: Side Projects
 layout: landing
-description: 'other design projects I have took part in!'
-image: assets/images/pic07.jpg
+description: 'cad, merchandise, laser engravings and more'
+image: assets/images/turtleonshape.jpg
 nav-menu: true
 ---
 
