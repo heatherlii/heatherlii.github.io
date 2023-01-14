@@ -18,7 +18,7 @@ show_tile: false
 
 <!-- Text -->
 <div class="row">
-	<div class="6u 12u$(small)">
+	<div class="4u 12u$(medium)">
 		<blockquote>
 			<p>Thanks for visiting my site! I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX.</p>
 			<p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
@@ -26,10 +26,10 @@ show_tile: false
 			<p>ANCORA IMPARO.</p>
 		</blockquote>
 	</div>
-	<div class="6u 12u$(small)">
+	<div class="4u 12u$(medium)">
 		<p> </p>
 	</div>
-	<div class="6u 12u$(small)">
+	<div class="4u 12u$(medium)">
 		<h3>I also like ♡</h2>
 		<ul>
 			<li>Curating playlists</li>
