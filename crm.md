@@ -45,6 +45,7 @@ show_tile: false
 </section>
 		
 <h1> </h1>
+<h1> </h1>
 
 <!-- Project Goals -->
 <section id="ProjectGoals">
@@ -55,6 +56,7 @@ show_tile: false
 	<p>Explore how to create a Holistic 360 View of their customers that each team with the Employer Services space can leverage and be equally informed about each customer.</p>
 </section>
 		
+<h1> </h1>
 <h1> </h1>
 
 <!-- Initial Research -->
@@ -69,6 +71,7 @@ show_tile: false
 	<p>In the latest iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, it would be optimal to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections.</p>
 </section>
 		
+<h1> </h1>
 <h1> </h1>
 		
 <!-- Testing -->
@@ -130,6 +133,7 @@ show_tile: false
 	</html>
 </section>
 
+<h1> </h1>
 <h1> </h1>
 	
 <!-- Design Iterations -->
