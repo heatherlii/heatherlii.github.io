@@ -100,7 +100,7 @@ show_tile: false
 	</html>
 </section>
 	
-
+<p> </p>
 
 <!-- Final -->
 <section id="Final">
@@ -130,7 +130,7 @@ show_tile: false
 	</html>
 </section>
 
-
+<p> </p>
 	
 <!-- Design Iterations -->
 <section id="DesignIterations">
