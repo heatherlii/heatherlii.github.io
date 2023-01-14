@@ -13,7 +13,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Hey there (￣▽￣)ノ</h1>
+			<h1>Hey there ( ・_・)ノ</h1>
 		</header>
 
 <!-- Text -->
@@ -25,24 +25,16 @@ show_tile: false
 		<p>ANCORA IMPARO.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>I also like ♡</h3>
+		<h3>I like ♡</h3>
 		<blockquote>
 			<p>Curating playlists</p>
-		</blockquote>
-		<blockquote>
 			<p>Video & Music editing</p>
-		</blockquote>
-		<blockquote>
 			<p>Boba</p>
 		</blockquote>
 		<h3>I am learning [_|_]</h3>
 		<blockquote>
 			<p>Calligraphy</p>
-		</blockquote>
-		<blockquote>
 			<p>House Dance</p>
-		</blockquote>
-		<blockquote>
 			<p>Korean (한국어)</p>
 		</blockquote>
 	</div>
