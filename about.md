@@ -13,13 +13,32 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About Me</h1>
+			<h1>Hey there (￣▽￣)ノ</h1>
 		</header>
 
 <!-- Text -->
-<blockquote>
-	<p>Hello! I am Heather, a first year Systems Design Engineering student at University of Waterloo aspiring to become a UI/UX designer.</p>
-	<p>I love designing, iterating, and playing around with new ideas and tools :)</p>
-	<p>When I am not learning or designing, you will probably find me dancing, choreographing/teaching, or listening to music.</p>
-	<p>ANCORA IMPARO.</p>
-</blockquote>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<blockquote>
+			<p>Thanks for visiting my site! I am Heather, a second year Systems Design Engineering student at University of Waterloo. Currently, I am exploring the many fields within the design industry, especially UI/UX.</p>
+			<p>I love to make things, "endlessly" iterate designs and play around with new ideas/tools. When I am not learning or designing, you can probably find me at the studio choreographing or teaching.</p>
+			<p>If you are interested in my work, don't hesitate to reach out!</p>
+			<p>ANCORA IMPARO.</p>
+		</blockquote>
+	</div>
+	<div class="6u 12u$(small)">
+		<h2>I also like ♡</h2>
+		<ul>
+			<li>Curating playlists</li>
+			<li>Boba</li>
+			<li>Volleyball</li>
+			<li>Video & Music editing</li>
+		</ul>
+		<h2>I am learning [_|_]</h2>
+		<ul>
+			<li>Calligraphy</li>
+			<li>House Dance</li>
+			<li>Korean (한국어)</li>
+		</ul>
+	</div>
+</div>
