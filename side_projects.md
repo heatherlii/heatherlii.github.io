@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>3-d printed puzzle</h3>
 				</header>
-				<p>During my first term at the University of Waterloo, I worked alongside a few classmates to design and print a 3-d puzzle of a Canadian fauna.</p>
+				<p>'Communications in Systems Design Engineering' group project</p>
 				<ul class="actions">
 					<li><a href="3d_printed_puzzle.html" class="button">Learn more</a></li>
 				</ul>
@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Product Design</h3>
 				</header>
-				<p>Products I have designed include clothing merchandise for sale, and laser engraved keychains/name tags.</p>
+				<p>Clothing merchandise and laser engraved items.</p>
 				<ul class="actions">
 					<li><a href="product_design.html" class="button">Learn more</a></li>
 				</ul>
@@ -52,7 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Other Designs</h3>
 				</header>
-				<p>Other designs I have created include social media posts, infographics and posters.</p>
+				<p>Social media posts, infographics and posters.</p>
 				<ul class="actions">
 					<li><a href="other_designs.html" class="button">Learn more</a></li>
 				</ul>
