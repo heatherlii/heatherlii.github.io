@@ -2,7 +2,7 @@
 title: Work
 layout: landing
 description: 'ui/ux projects from work experiences'
-image: assets/images/pic07.jpg
+image: assets/images/crm_thumbnail.jpg
 nav-menu: true
 ---
 
