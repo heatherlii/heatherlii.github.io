@@ -26,7 +26,7 @@ show_tile: false
 	<li><a href="#Research" class="button small scrolly">Research</a></li>
 	<li><a href="#Testing" class="button small scrolly">Testing</a></li>
 	<!-- <li><a href="#InitialExplorations" class="button small scrolly">Initial Explorations</a></li> -->
-	<li><a href="#Final" class="button small scrolly">Solution</a></li>
+	<li><a href="#Final" class="button small scrolly">Final Prototype</a></li>
 	<li><a href="#DesignIterations" class="button small scrolly">Design Iterations</a></li>
 </ul>
 		
@@ -38,15 +38,12 @@ show_tile: false
 	<p><b>Team:</b> Worked in partnership with designers, developpers and communications coordinators</p>
 </blockquote>
 		
-<hr class="major"/>
 		
 <!-- Project Overview -->
 <section id="Overview">
-	<h2>Project Overview</h2>
 	<p>Currently, the Employer Services (ES) division includes three areas that support the employer customer experience: intake/payments, education, and compliance. The three areas do not have shared view of the employer, hence they must individually collect and store information. This could potentially lead to having unknown conflicting conversations, preventing a holistic view of the employer.</p>
 </section>
 		
-<hr class="major"/>
 		
 <!-- Project Goals -->
 <section id="ProjectGoals">
@@ -57,7 +54,6 @@ show_tile: false
 	<p>Explore how to create a Holistic 360 View of their customers that each team with the Employer Services space can leverage and be equally informed about each customer.</p>
 </section>
 		
-<hr class="major"/>
 
 <!-- Initial Research -->
 <section id="Research">
@@ -68,10 +64,9 @@ show_tile: false
 	<p>Following the job shadowing sessions, the designers performed a thematic analysis on the notes to identify any overlapping themes and/or pain points. No glaring pain points affecting each team's workflow were identified. However, areas of improvement in efficiency and service for employers were recognized and outlined in a <a href="https://drive.google.com/file/d/1Cyo-0phyPcAPIVhhTghbhtSqiv2bampT/view">slide deck</a>.</p>
 	<h3>Data Grouping Workshop</h3>
 	<p>For the first two rounds of iterations, we focused on creating a dashboard with assisting features such as: notification bell, note analysis, pinned files. However, after further discussion and reflection on our progress with the Stakeholders, a new direction has been set to help accomplish what they “truly want”.</p>
-	<p>For the third and most recent iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, we felt that it would be best to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections.</p>
+	<p>In the latest iteration, we focused on displaying pieces of data from a merged data set. Hence, with 90+ data fields, it would be optimal to group and section similar data for quicker navigation. A ‘Data Grouping Workshop’ was held to determine the most appropriate groupings and rankings of data/sections.</p>
 </section>
 		
-<hr class="major"/>
 		
 <!-- Testing -->
 <section id="Testing">
@@ -101,8 +96,7 @@ show_tile: false
 		</body>
 	</html>
 </section>
-				
-<hr class="major"/>
+		
 
 <!-- Final -->
 <section id="Final">
@@ -110,7 +104,7 @@ show_tile: false
 	<p>description</p>
 	<blockquote>
 		<p><b><i>*Note*</i></b> Ideally, users will be able to leverage the ‘auto-scroll’ shortcuts and the manual scroll.</p>
-		<p>Additional prototypes of the <i>dashboard</i> and <i>glossary</i> are included below to demonstrate how a user can leverage the tabs/shortcuts.</p>
+		<p>Additional prototypes of the <i>dashboard</i> and <i>glossary</i> are also included below to demonstrate how a user can leverage the tabs/shortcuts.</p>
 	</blockquote>
 	<html>
 		<head>
@@ -132,7 +126,6 @@ show_tile: false
 	</html>
 </section>
 
-<hr class="major"/>
 	
 <!-- Design Iterations -->
 <section id="DesignIterations">
@@ -159,10 +152,8 @@ show_tile: false
 	</html>
 	<span class="image fit"><img src="{% link assets/images/crm_lo-fi.png%}" alt="" /></span>
 	<h3>Mid-fis</h3>
-	<p>After reaching a consensus on the dashboard’s general architecture, visual elements such as placeholder text and simple iconography were added.</p>
 	<span class="image fit"><img src="{% link assets/images/crm_mid-fis.png%}" alt="" /></span>
 	<h3>Hi-fis</h3>
-	<p>V1 description</p>
 	<html>
 		<head>
 			<style>
@@ -182,7 +173,6 @@ show_tile: false
 		</body>
 	</html>
 	<p> </p>
-	<p>V2 description</p>
 	<html>
 		<head>
 			<style>
