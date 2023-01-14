@@ -1,7 +1,6 @@
 ---
-title: Skills
-layout: landing
-description: ''
+layout: page
+title: Tools & Skills
 image: assets/images/skills_sketches_black.jpg
 nav-menu: true
 show_tile: false
