@@ -27,14 +27,14 @@ show_tile: false
 		</blockquote>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>I also like ♡</h2>
+		<h3>I also like ♡</h3>
 		<ul>
 			<li>Curating playlists</li>
 			<li>Boba</li>
 			<li>Volleyball</li>
 			<li>Video & Music editing</li>
 		</ul>
-		<h3>I am learning [_|_]</h2>
+		<h3>I am learning [_|_]</h3>
 		<ul>
 			<li>Calligraphy</li>
 			<li>House Dance</li>
