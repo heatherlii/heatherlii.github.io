@@ -7,13 +7,14 @@ show_tile: false
 ---
 
 <!-- Main -->
-<div id="main">
+<div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		
-<h1>Tools & Skills</h1>
+		<header class="major">
+			<h2>Tools & Skills</h2>
+		</header>
 
 <!-- Shortcuts -->
 <ul class="actions">
