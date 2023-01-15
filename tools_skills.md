@@ -41,7 +41,7 @@ show_tile: false
 		</head>
 		<body>
 			<div id="content">
-				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="600" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRQptk8jcMXGXQXRB8WJxIB%2Fwebpage-prototype%3Fnode-id%3D552%253A385%26scaling%3Dscale-down%26page-id%3D551%253A100%26starting-point-node-id%3D552%253A631" allowfullscreen></iframe>
+				<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FRQptk8jcMXGXQXRB8WJxIB%2Fwebpage-prototype%3Fnode-id%3D552%253A385%26scaling%3Dscale-down%26page-id%3D551%253A100%26starting-point-node-id%3D552%253A631" allowfullscreen></iframe>
 			</div>
 		</body>
 	</html>
