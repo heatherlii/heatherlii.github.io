@@ -26,7 +26,7 @@ show_tile: false
 <!-- Figma -->
 <section id="Figma">
 	<h2>Figma</h2>
-	<p>Figma is my go-to tool for designing. I am currently in the progress of building my own website.</p>
+	<p>Figma is my go-to tool for designing. I am currently in the progress of revamping and building my own website.</p>
 	<html>
 		<head>
 			<style>
